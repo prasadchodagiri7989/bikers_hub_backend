@@ -20,4 +20,18 @@ router.get('/best-sellers', async (req, res) => {
     }
   });
 
+  router.get('/products/:id', async (req, res) => {
+    try {
+      const product = await Product.findById(req.params.id);
+  
+      if (!product) {
+        return res.status(404).json({ message: "Product not found" });
+      }
+  
+      res.json(product);
+    } catch (error) {
+      return res.status(400).json({ message: "Invalid product ID", error });
+    }
+  });
+
 module.exports = router;
