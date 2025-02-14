@@ -9,8 +9,6 @@ exports.placeOrder = async (req, res) => {
         return res.status(400).json({ error: 'No order items provided' });
       }
   
-      console.log('Received Order Data:', req.body); // ✅ Log received data
-      console.log('User ID:', req.user?.id); // ✅ Check if user is attached
   
       const order = new Order({
         user: req.user.id, // Authenticated user ID

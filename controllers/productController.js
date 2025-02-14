@@ -38,7 +38,6 @@ exports.getProductsByCategory = async (req, res) => {
     limit = parseInt(limit) || 10; // Default 10 products per page
     const skip = (page - 1) * limit; // Calculate skip count
 
-    console.log(`Fetching products for category: ${id}, Page: ${page}`);
 
     // 🔹 Count total products in this category (instead of collectionId)
     const totalProducts = await Product.countDocuments({ category: id });
@@ -73,7 +72,6 @@ exports.getProductsByCollection = async (req, res) => {
     limit = parseInt(limit) || 10; // Default 10 products per page
     const skip = (page - 1) * limit; // Calculate skip count
 
-    console.log(`Fetching products for category: ${id}, Page: ${page}`);
 
     // 🔹 Count total products in this category (instead of collectionId)
     const totalProducts = await Product.countDocuments({ brand: id });

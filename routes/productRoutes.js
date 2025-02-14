@@ -18,7 +18,6 @@ router.get('/new-arrivals', async (req, res) => {
 router.get("/collections/:categoryName", async (req, res) => {
   try {
     const { categoryName } = req.params;
-    console.log(categoryName);
     
     const validCategories = ['Helmets', 'Gloves', 'Lights', 'Tires', 'Locks', 'Tools'];
     if (!validCategories.includes(categoryName)) {
