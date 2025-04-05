@@ -1,6 +1,5 @@
 const Order = require('../models/Order');
 
-// ✅ Place a New Order
 exports.placeOrder = async (req, res) => {
     try {
       const { orderItems, shippingAddress, paymentMethod, totalPrice } = req.body;
@@ -11,7 +10,7 @@ exports.placeOrder = async (req, res) => {
   
   
       const order = new Order({
-        user: req.user.id, // Authenticated user ID
+        user: req.user.id,
         orderItems,
         shippingAddress,
         paymentMethod,
@@ -21,23 +20,21 @@ exports.placeOrder = async (req, res) => {
       const savedOrder = await order.save();
       res.status(201).json(savedOrder);
     } catch (error) {
-      console.error('Order Placement Error:', error); // ✅ Log the error
+      console.error('Order Placement Error:', error);
       res.status(500).json({ error: 'Server error while placing order', details: error.message });
     }
   };
   
 
-// ✅ Get User Orders
 exports.getUserOrders = async (req, res) => {
   try {
     const orders = await Order.find({ user: req.user.id }).sort({ createdAt: -1 });
     res.json(orders);
   } catch (error) {
     res.status(500).json({ error: 'Error fetching user orders' });
-  }
+  } 
 };
 
-// ✅ Get All Orders (Admin Only)
 exports.getAllOrders = async (req, res) => {
   try {
     const orders = await Order.find().populate('user', 'name email').sort({ createdAt: -1 });
@@ -47,7 +44,6 @@ exports.getAllOrders = async (req, res) => {
   }
 };
 
-// ✅ Update Order Delivery Status (Admin)
 exports.updateOrderStatus = async (req, res) => {
   try {
     const order = await Order.findById(req.params.id);

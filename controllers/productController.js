@@ -97,3 +97,24 @@ exports.getProductsByCollection = async (req, res) => {
     res.status(500).json({ success: false, message: "Server Error" });
   }
 };
+
+exports.getProductsByBike = async (req, res) => {
+  try {
+    const { bike, model } = req.query;
+
+    if (!bike || !model) {
+      return res.status(400).json({ message: "Bike and model are required" });
+    }
+
+    // Assuming your Product schema has bike and model fields
+    const products = await Product.find({
+      bike: bike.toLowerCase(),
+      model: model.toLowerCase(),
+    });
+
+    res.status(200).json({ success: true, products });
+  } catch (err) {
+    console.error("Error fetching products by bike:", err);
+    res.status(500).json({ message: "Server error" });
+  }
+};

@@ -1,10 +1,19 @@
 const express = require('express');
 const Product = require('../models/Product');
-const { getProductsByCategory, getProductsByCollection } = require("../controllers/productController");
+const { getProductsByCategory, getProductsByCollection, getProductsByBike } = require("../controllers/productController");
 const router = express.Router();
 
 router.get("/collections/:id", getProductsByCollection);
 router.get("/categories/:id", getProductsByCategory);
+
+router.get("/", async (req, res) => {
+  try {
+    const products = await Product.find(); // Fetch all products
+    res.json(products);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
 
 router.get('/new-arrivals', async (req, res) => {
   try {
@@ -54,5 +63,8 @@ router.get('/best-sellers', async (req, res) => {
       return res.status(400).json({ message: "Invalid product ID", error });
     }
   });
+  
+  router.get("/by-bike",getProductsByBike);
+
 
 module.exports = router;
