@@ -1,0 +1,4781 @@
+    [
+    {
+      "id": "lower-engine-guard-black",
+      "name": "BMW G310 R Lower Engine Guard MS with Puck Black",
+      "brand": "Zana Motorcycles",
+      "model": "G310 R",
+      "description": "Provides exceptional engine and body protection for off-roading and adventure riding. Features a compact, robust construction to safeguard the engine and body from impacts.",
+      "category": "Protection",
+      "price": 149,
+      "discount": 0,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Black"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "Mild Steel"
+      },
+      "features": [
+        "Compact and durable design",
+        "Slider puck for additional impact absorption",
+        "Patented design by Zana",
+        "Compatible with OEM and plastic bash plates",
+        "Works with Zana aluminum bash plate",
+        "Can be installed as a single unit or with other Zana accessories",
+        "Strong mounting structure for off-road durability",
+        "Suitable for BMW G310 R and G310 GS models"
+      ],
+      "warranty": "6 months",
+      "rating": 4.6
+    },
+    {
+      "id": "gps-mount",
+      "name": "GPS Mount Aluminum & SS BMW 310R",
+      "brand": "Zana Motorcycles",
+      "model": "G310 R",
+      "description": "Provides a secure and stable platform for your GPS device, ensuring easy visibility and access while riding.",
+      "category": "Accessories",
+      "price": 18.7,
+      "discount": 21,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Silver"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "Aluminum & Stainless Steel"
+      },
+      "features": [
+        "Secure and stable platform for GPS devices",
+        "Designed specifically for the G 310 R",
+        "Withstands vibrations and harsh weather conditions",
+        "Adjustable design for optimal positioning",
+        "Enhances functionality and aesthetics"
+      ],
+      "warranty": "6 months",
+      "rating": 4.0
+    },
+    {
+      "id": "saddle-stay-kustom-silver",
+      "name": "ZANA Saddle Stay Kustom Silver BMW G310GS / G310R (ZI-8162)",
+      "brand": "Zana Motorcycles",
+      "model": "G310 R",
+      "description": "Mounted on 4mm steel plates for optimum rigidity. Cold Rolled Powder Coated Steel Tubes used for manufacturing.",
+      "category": "Luggage",
+      "price": 36,
+      "discount": 0,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Silver"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "Cold Rolled Powder Coated Steel"
+      },
+      "features": [
+        "Mounted on 4mm steel plates for optimum rigidity",
+        "Cold Rolled Powder Coated Steel Tubes",
+        "Precision Welding (TIG) for uniform finish and strength",
+        "All nuts and bolts of Stainless Steel (100% Rust free)",
+        "Industrial grade polymer Spacers included",
+        "Proper Strength reinforcement using support pipes",
+        "6 Months Paint/Powder Coating warranty",
+        "Proper shade matching with the bike chassis",
+        "Acts as tail protection of the bike",
+        "Pillion Friendly",
+        "Compatible with ZANA top box racks"
+      ],
+      "warranty": "6 months",
+      "rating": 4.5
+    },
+    {
+      "id": "aluminium-sump-guard-silver",
+      "name": "BMW G310R Aluminium Heavy Duty Sump Guard Silver",
+      "brand": "Zana Motorcycles",
+      "model": "G310 R",
+      "description": "Provides exceptional protection for the bike’s engine and sump. Crafted from thick, durable aluminium, offering superior defense against both on-road and off-road hazards.",
+      "category": "Protection",
+      "price": 110,
+      "discount": 0,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Silver"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "Aluminium"
+      },
+      "features": [
+        "Heavy-duty aluminium construction",
+        "Full coverage of the engine and sump area",
+        "Easy to mount with no modifications required",
+        "Compatible with OEM BMW crash bars",
+        "No loss of ground clearance"
+      ],
+      "warranty": "6 months",
+      "rating": 4.6
+    },
+    {
+      "id": "universal-gel-seat-cushion-small",
+      "name": "Universal Gel Seat Cushion Small (495grm)",
+      "brand": "Zana Motorcycles",
+      "model": "Universal",
+      "description": "Enhances rider comfort by reducing vibrations and pressure points during long rides.",
+      "category": "Comfort",
+      "price": 28.9,
+      "discount": 10,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Black"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "495g",
+        "gears": "",
+        "brakeType": "",
+        "material": "Gel"
+      },
+      "features": [
+        "Reduces vibrations and pressure points",
+        "Universal fit for various motorcycle seats",
+        "Easy to install and remove",
+        "Lightweight and portable"
+      ],
+      "warranty": "6 months",
+      "rating": 4.6
+    },
+    {
+      "id": "universal-led-fog-light",
+      "name": "Universal LED Fog Light (ZFL-20)",
+      "brand": "Zana Motorcycles",
+      "model": "Universal",
+      "description": "Enhances visibility during night rides and adverse weather conditions.",
+      "category": "Lighting",
+      "price": 195.5,
+      "discount": 4,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Black"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "Aluminum"
+      },
+      "features": [
+        "Bright LED illumination",
+        "Durable and weather-resistant construction",
+        "Universal compatibility",
+        "Easy installation"
+      ],
+      "warranty": "6 months",
+      "rating": 4.0
+    },
+    {
+      "id": "front-fork-slider",
+      "name": "BMW G 310 GS Front Fork Slider",
+      "brand": "Zana Motorcycles",
+      "model": "G 310 GS",
+      "description": "Protects the front forks from damage during falls or collisions. Made from high-quality materials for durability.",
+      "category": "Protection",
+      "price": 48,
+      "discount": 16,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Black"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "High-Quality Plastic"
+      },
+      "features": [
+        "Easy installation",
+        "Lightweight design",
+        "Enhances bike aesthetics"
+      ],
+      "warranty": "6 months",
+      "rating": 4.3
+    },
+    {
+      "id": "side-stand-extender",
+      "name": "Side Stand Extender Aluminum & SS for BMW G 310 GS",
+      "brand": "Zana Motorcycles",
+      "model": "G 310 GS",
+      "description": "Increases the surface area of the side stand to prevent the bike from sinking into soft surfaces.",
+      "category": "Accessories",
+      "price": 23.8,
+      "discount": 22,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Silver"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "Aluminum & Stainless Steel"
+      },
+      "features": [
+        "Prevents bike from tipping over",
+        "Rust-resistant materials",
+        "Simple bolt-on installation"
+      ],
+      "warranty": "6 months",
+      "rating": 4.4
+    },
+    {
+      "id": "handle-riser",
+      "name": "BMW G 310 GS New Vertical Handle Riser Aluminum Silver",
+      "brand": "Zana Motorcycles",
+      "model": "G 310 GS",
+      "description": "Raises the handlebar position for a more comfortable riding posture.",
+      "category": "Comfort",
+      "price": 65,
+      "discount": 17,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Silver"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "Aluminum"
+      },
+      "features": [
+        "Improves rider ergonomics",
+        "Reduces fatigue on long rides",
+        "Durable construction"
+      ],
+      "warranty": "6 months",
+      "rating": 4.8
+    },
+    {
+      "id": "disc-caliper-protector",
+      "name": "Front Disc Caliper Protector G310 GS",
+      "brand": "Zana Motorcycles",
+      "model": "G 310 GS",
+      "description": "Shields the front brake caliper from debris and potential damage.",
+      "category": "Protection",
+      "price": 20,
+      "discount": 0,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Black"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "Aluminum"
+      },
+      "features": [
+        "Protects critical brake components",
+        "Lightweight and sturdy",
+        "Easy to install"
+      ],
+      "warranty": "6 months",
+      "rating": 4.8
+    },
+    {
+      "id": "fog-light-mount",
+      "name": "Fog Light Mount MS for BMW 310 GS",
+      "brand": "Zana Motorcycles",
+      "model": "G 310 GS",
+      "description": "Provides a secure mounting point for auxiliary fog lights.",
+      "category": "Accessories",
+      "price": 20.4,
+      "discount": 20,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Black"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "Mild Steel"
+      },
+      "features": [
+        "Enhances visibility in low-light conditions",
+        "Corrosion-resistant finish",
+        "Compatible with various fog light models"
+      ],
+      "warranty": "6 months",
+      "rating": 4.3
+    },
+    {
+      "id": "gps-mount",
+      "name": "GPS Mount Aluminum & SS BMW G310S",
+      "brand": "Zana Motorcycles",
+      "model": "G 310 GS",
+      "description": "Securely holds GPS devices for easy navigation during rides.",
+      "category": "Accessories",
+      "price": 18.7,
+      "discount": 21,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Silver"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "Aluminum & Stainless Steel"
+      },
+      "features": [
+        "Adjustable viewing angles",
+        "Vibration-resistant design",
+        "Quick installation"
+      ],
+      "warranty": "6 months",
+      "rating": 5.0
+    },
+    {
+      "id": "radiator-guard",
+      "name": "BMW 310GS Radiator Guard Black Aluminum",
+      "brand": "Zana Motorcycles",
+      "model": "G 310 GS",
+      "description": "Protects the radiator from stones and debris while allowing optimal airflow.",
+      "category": "Protection",
+      "price": 65,
+      "discount": 0,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Black"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "Aluminum"
+      },
+      "features": [
+        "Prevents radiator damage",
+        "Enhances bike appearance",
+        "Easy to clean and maintain"
+      ],
+      "warranty": "6 months",
+      "rating": 4.5
+    },
+    {
+      "id": "saddle-stay",
+      "name": "Saddle Stay MS Black with Jerry Can Mount BMW G 310GS",
+      "brand": "Zana Motorcycles",
+      "model": "G 310 GS",
+      "description": "Provides support for saddlebags and includes a mount for carrying a jerry can.",
+      "category": "Luggage",
+      "price": 139,
+      "discount": 16,
+      "stock": 0,
+      "images": [],
+      "colorOptions": ["Black"],
+      "sizeOptions": [],
+      "specifications": {
+        "frameSize": "",
+        "wheelSize": "",
+        "weight": "",
+        "gears": "",
+        "brakeType": "",
+        "material": "Mild Steel"
+      },
+      "features": [
+        "Mount for saddlebags",
+        "Includes jerry can mount",
+        "Sturdy and reliable"
+      ],
+      "warranty": "6 months",
+      "rating": 4.7
+    },
+    {
+        "id": "crash-guard-with-slider",
+        "name": "Crash Guard with Slider (Texture Matt Black)",
+        "brand": "Zana Motorcycles",
+        "model": "Dominar 250/400 (2019-2022)",
+        "description": "Provides robust protection to the motorcycle's frame and engine during falls.",
+        "category": "Protection",
+        "price": 169,
+        "discount": 0,
+        "stock": 0,
+        "images": [],
+        "colorOptions": ["Matt Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Mild Steel"
+        },
+        "features": [
+          "Durable construction",
+          "Easy installation",
+          "Enhances bike aesthetics"
+        ],
+        "warranty": "6 months",
+        "rating": 4.5
+      },
+      {
+        "id": "fluid-reservoir-cover",
+        "name": "Front Fluid Reservoir Oil Cover",
+        "brand": "Zana Motorcycles",
+        "model": "Dominar 250/400 (2019-2022)",
+        "description": "Protects the front fluid reservoir from dust and debris.",
+        "category": "Protection",
+        "price": 14,
+        "discount": 13,
+        "stock": 0,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Plastic"
+        },
+        "features": [
+          "Easy to install",
+          "Lightweight",
+          "Enhances bike aesthetics"
+        ],
+        "warranty": "6 months",
+        "rating": 4.2
+      },
+      {
+        "id": "vertical-handle-riser",
+        "name": "Vertical Handle Riser",
+        "brand": "Zana Motorcycles",
+        "model": "Dominar 250/400 (2019-2022)",
+        "description": "Raises the handlebar position for a more comfortable riding posture.",
+        "category": "Comfort",
+        "price": 39.1,
+        "discount": 12,
+        "stock": 0,
+        "images": [],
+        "colorOptions": ["Silver"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Aluminum"
+        },
+        "features": [
+          "Improves rider ergonomics",
+          "Reduces fatigue on long rides",
+          "Durable construction"
+        ],
+        "warranty": "6 months",
+        "rating": 5.0
+      },
+      {
+        "id": "honeycomb-radiator-grill",
+        "name": "Honeycomb Radiator Grill (Premium Matt Black)",
+        "brand": "Zana Motorcycles",
+        "model": "Dominar 250/400 (2019-2022)",
+        "description": "Protects the radiator from stones and debris while allowing optimal airflow.",
+        "category": "Protection",
+        "price": 60,
+        "discount": 17,
+        "stock": 0,
+        "images": [],
+        "colorOptions": ["Matt Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Aluminum"
+        },
+        "features": [
+          "Prevents radiator damage",
+          "Enhances bike appearance",
+          "Easy to clean and maintain"
+        ],
+        "warranty": "6 months",
+        "rating": 4.2
+      },
+      {
+        "id": "angular-handle-bar-riser",
+        "name": "Pull Back Angular Handle Bar Riser (Texture Matt Black)",
+        "brand": "Zana Motorcycles",
+        "model": "Dominar 250/400 (2019-2022)",
+        "description": "Adjusts the handlebar position for improved riding comfort.",
+        "category": "Comfort",
+        "price": 75,
+        "discount": 0,
+        "stock": 0,
+        "images": [],
+        "colorOptions": ["Matt Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Aluminum"
+        },
+        "features": [
+          "Improves rider ergonomics",
+          "Reduces fatigue on long rides",
+          "Durable construction"
+        ],
+        "warranty": "6 months",
+        "rating": 4.1
+      },
+      {
+        "id": "gps-mount",
+        "name": "GPS Mount",
+        "brand": "Zana Motorcycles",
+        "model": "Dominar 250/400 (2019-2022)",
+        "description": "Securely holds GPS devices for easy navigation during rides.",
+        "category": "Accessories",
+        "price": 18.7,
+        "discount": 21,
+        "stock": 0,
+        "images": [],
+        "colorOptions": ["Silver"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Aluminum & Stainless Steel"
+        },
+        "features": [
+          "Adjustable viewing angles",
+          "Vibration-resistant design",
+          "Quick installation"
+        ],
+        "warranty": "6 months",
+        "rating": 5.0
+      },
+      {
+        "id": "top-box-aluminium",
+        "name": "Top Box Aluminium Black (35L)",
+        "brand": "Zana Motorcycles",
+        "model": "Dominar 250/400 (2019-2022)",
+        "description": "Provides ample storage space for long-distance touring.",
+        "category": "Luggage",
+        "price": 161.5,
+        "discount": 5,
+        "stock": 0,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["35L"],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Aluminum"
+        },
+        "features": [
+          "Spacious storage capacity",
+          "Durable construction",
+          "Weather-resistant design"
+        ],
+        "warranty": "6 months",
+        "rating": 4.5
+      },
+      {
+        "id": "side-stand-extender",
+        "name": "Side Stand Extender for BSA Goldstar 650",
+        "brand": "Zana Motorcycles",
+        "model": "Goldstar 650",
+        "description": "Increases the surface area of the side stand to prevent the bike from sinking into soft surfaces.",
+        "category": "Accessories",
+        "price": 15.3,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/t/side-stand-extender-bsa-goldstar-650.jpg"],
+        "colorOptions": ["Silver"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Aluminum & Stainless Steel"
+        },
+        "features": [
+          "Prevents bike from tipping over",
+          "Rust-resistant materials",
+          "Simple bolt-on installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.2
+      },
+      {
+        "id": "crash-guard",
+        "name": "Crash Guard for BSA Goldstar 650",
+        "brand": "Zana Motorcycles",
+        "model": "Goldstar 650",
+        "description": "Protects the motorcycle's frame and engine during falls.",
+        "category": "Protection",
+        "price": 169,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/r/crash-guard-bsa-goldstar-650.jpg"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Mild Steel"
+        },
+        "features": [
+          "Durable construction",
+          "Easy installation",
+          "Enhances bike aesthetics"
+        ],
+        "warranty": "6 months",
+        "rating": 4.5
+      },
+      {
+        "id": "fog-light-mount",
+        "name": "Fog Light Mount for BSA Goldstar 650",
+        "brand": "Zana Motorcycles",
+        "model": "Goldstar 650",
+        "description": "Provides a secure mounting point for auxiliary fog lights.",
+        "category": "Lighting",
+        "price": 20.4,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/f/o/fog-light-mount-bsa-goldstar-650.jpg"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Mild Steel"
+        },
+        "features": [
+          "Enhances visibility in low-light conditions",
+          "Corrosion-resistant finish",
+          "Compatible with various fog light models"
+        ],
+        "warranty": "6 months",
+        "rating": 4.3
+      },
+      {
+        "id": "gel-seat-cushion",
+        "name": "Gel Seat Cushion for BSA Goldstar 650",
+        "brand": "Zana Motorcycles",
+        "model": "Goldstar 650",
+        "description": "Provides additional comfort during long rides.",
+        "category": "Comfort",
+        "price": 36.8,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/g/e/gel-seat-cushion-bsa-goldstar-650.jpg"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Gel & Fabric"
+        },
+        "features": [
+          "Reduces rider fatigue",
+          "Easy to install",
+          "Breathable material"
+        ],
+        "warranty": "6 months",
+        "rating": 4.7
+      },
+      {
+        "id": "radiator-guard",
+        "name": "Radiator Guard for BSA Goldstar 650",
+        "brand": "Zana Motorcycles",
+        "model": "Goldstar 650",
+        "description": "Protects the radiator from stones and debris while allowing optimal airflow.",
+        "category": "Protection",
+        "price": 65,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/r/a/radiator-guard-bsa-goldstar-650.jpg"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Aluminum"
+        },
+        "features": [
+          "Prevents radiator damage",
+          "Enhances bike appearance",
+          "Easy to clean and maintain"
+        ],
+        "warranty": "6 months",
+        "rating": 4.5
+      },
+      {
+        "id": "handle-bar-riser",
+        "name": "Handle Bar Riser per Harley Davidson X440",
+        "brand": "Zana Motorcycles",
+        "model": "X440",
+        "description": "Aumenta l'altezza del manubrio di 26 mm per migliorare la postura di guida.",
+        "category": "Comfort",
+        "price": 79,
+        "discount": 17,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/h/a/handle-bar-riser-harley-davidson-x440.jpg"],
+        "colorOptions": ["Alluminio"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Alluminio Billet"
+        },
+        "features": [
+          "Design senza vibrazioni",
+          "Installazione semplice",
+          "Compatibile con manubri originali"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.3
+      },
+      {
+        "id": "mirror-extender",
+        "name": "Mirror Extender per Harley Davidson X440",
+        "brand": "Zana Motorcycles",
+        "model": "X440",
+        "description": "Estende la posizione degli specchietti per una visibilità migliorata.",
+        "category": "Visibilità",
+        "price": 18.7,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/m/i/mirror-extender-harley-davidson-x440.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Acciaio Inox"
+        },
+        "features": [
+          "Facile installazione",
+          "Aumenta la sicurezza",
+          "Design compatibile con il modello X440"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "top-box",
+        "name": "Top Box Plastica (45 Ltr) L-flat Nero con Cuscino Schienale per Harley Davidson X440",
+        "brand": "Zana Motorcycles",
+        "model": "X440",
+        "description": "Baule posteriore in plastica da 45 litri con cuscino schienale per comfort extra.",
+        "category": "Luggage",
+        "price": 119,
+        "discount": 7,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/t/o/top-box-harley-davidson-x440.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Plastica"
+        },
+        "features": [
+          "Capacità di 45 litri",
+          "Cuscino schienale incluso",
+          "Design compatibile con il modello X440"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "fog-light-mount",
+        "name": "Supporto per Fari Fendinebbia per Harley Davidson X440",
+        "brand": "Zana Motorcycles",
+        "model": "X440",
+        "description": "Supporto robusto per l'installazione di fari fendinebbia.",
+        "category": "Illuminazione",
+        "price": 20.4,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/f/o/fog-light-mount-harley-davidson-x440.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Acciaio al Carbonio"
+        },
+        "features": [
+          "Facile installazione",
+          "Compatibile con fari fendinebbia standard",
+          "Design resistente"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.3
+      },
+      {
+        "id": "saddle-stay",
+        "name": "Saddle Stay con Supporto per Jerry Can e Protezione Scarico per Harley Davidson X440",
+        "brand": "Zana Motorcycles",
+        "model": "X440",
+        "description": "Supporto per sella con montaggio per jerry can e protezione per scarico.",
+        "category": "Luggage",
+        "price": 3.499,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/a/saddle-stay-harley-davidson-x440.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Acciaio al Carbonio"
+        },
+        "features": [
+          "Design brevettato",
+          "Montaggio per jerry can incluso",
+          "Protezione per scarico integrata"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "crash-guard-slider",
+        "name": "Crash Guard con Slider per Hero XPulse 200",
+        "brand": "Zana Motorcycles",
+        "model": "XPulse 200",
+        "description": "Protegge il telaio e il motore da impatti laterali.",
+        "category": "Protezione",
+        "price": 139,
+        "discount": 17,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/r/crash-guard-slider-hero-xpulse-200.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Acciaio al Carbonio"
+        },
+        "features": [
+          "Design robusto",
+          "Facile installazione",
+          "Compatibile con XPulse 200"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.3
+      },
+      {
+        "id": "top-box-black-45ltr",
+        "name": "Top Box Plastica (45 Ltr) Nero per Hero XPulse 200",
+        "brand": "Zana Motorcycles",
+        "model": "XPulse 200",
+        "description": "Baule posteriore in plastica da 45 litri con cuscino schienale per comfort extra.",
+        "category": "Luggage",
+        "price": 6500,
+        "discount": 7,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/t/o/top-box-hero-xpulse-200.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Plastica"
+        },
+        "features": [
+          "Capacità di 45 litri",
+          "Cuscino schienale incluso",
+          "Design compatibile con XPulse 200"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "gps-mount-xpulse200",
+        "name": "Supporto GPS per Hero XPulse 200",
+        "brand": "Zana Motorcycles",
+        "model": "XPulse 200",
+        "description": "Supporto sicuro per dispositivi GPS durante le escursioni.",
+        "category": "Accessori",
+        "price": 1099,
+        "discount": 21,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/g/p/gps-mount-hero-xpulse-200.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Acciaio Inox"
+        },
+        "features": [
+          "Installazione semplice",
+          "Compatibile con vari modelli GPS",
+          "Design resistente"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "mirror-extender-xpulse200",
+        "name": "Estensore Specchietti per Hero XPulse 200",
+        "brand": "Zana Motorcycles",
+        "model": "XPulse 200",
+        "description": "Estende la posizione degli specchietti per una visibilità migliorata.",
+        "category": "Visibilità",
+        "price": 699,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/m/i/mirror-extender-hero-xpulse-200.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Alluminio"
+        },
+        "features": [
+          "Facile installazione",
+          "Aumenta la sicurezza",
+          "Design compatibile con XPulse 200"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "pillion-backrest-xpulse200",
+        "name": "Schienale Passeggero per Hero XPulse 200",
+        "brand": "Zana Motorcycles",
+        "model": "XPulse 200",
+        "description": "Offre comfort extra per il passeggero durante i viaggi.",
+        "category": "Comfort",
+        "price": 999,
+        "discount": 9,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/p/i/pillion-backrest-hero-xpulse-200.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Acciaio al Carbonio"
+        },
+        "features": [
+          "Installazione semplice",
+          "Design ergonomico",
+          "Compatibile con XPulse 200"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "crash-guard-slider-cb350",
+        "name": "Crash Guard con Slider per Honda CB350",
+        "brand": "Zana Motorcycles",
+        "model": "CB350",
+        "description": "Protegge il telaio e il motore da impatti laterali.",
+        "category": "Protezione",
+        "price": 132,
+        "discount": 13,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/r/crash-guard-slider-cb350.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Acciaio al Carbonio"
+        },
+        "features": [
+          "Design robusto",
+          "Facile installazione",
+          "Compatibile con CB350"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.2
+      },
+      {
+        "id": "backrest-cb350",
+        "name": "Backrest per Honda CB350",
+        "brand": "Zana Motorcycles",
+        "model": "CB350",
+        "description": "Offre supporto aggiuntivo per il passeggero.",
+        "category": "Comfort",
+        "price": 99,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/b/a/backrest-cb350.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Acciaio"
+        },
+        "features": [
+          "Facile installazione",
+          "Design ergonomico",
+          "Compatibile con CB350"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "fog-light-mount-cb350",
+        "name": "Supporto per Luci Fendinebbia per Honda CB350",
+        "brand": "Zana Motorcycles",
+        "model": "CB350",
+        "description": "Fornisce un punto di montaggio sicuro per luci ausiliarie.",
+        "category": "Visibilità",
+        "price": 17.8,
+        "discount": 13,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/f/o/fog-light-mount-cb350.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Acciaio"
+        },
+        "features": [
+          "Compatibile con luci fendinebbia Zana",
+          "Facile installazione",
+          "Design robusto"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.3
+      },
+      {
+        "id": "saddle-stay-cb350",
+        "name": "Saddle Stay per Honda CB350",
+        "brand": "Zana Motorcycles",
+        "model": "CB350",
+        "description": "Fornisce supporto per borse laterali morbide.",
+        "category": "Luggage",
+        "price": 132,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/a/saddle-stay-cb350.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Acciaio"
+        },
+        "features": [
+          "Design robusto",
+          "Facile installazione",
+          "Compatibile con borse laterali morbide"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.1
+      },
+      {
+        "id": "top-box-cb350",
+        "name": "Top Box Plastica (45 Ltr) Nero con Cuscino Schienale per Honda CB350",
+        "brand": "Zana Motorcycles",
+        "model": "CB350",
+        "description": "Baule posteriore in plastica da 45 litri con cuscino schienale per comfort extra.",
+        "category": "Luggage",
+        "price": 189,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/t/o/top-box-cb350.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "frameSize": "",
+          "wheelSize": "",
+          "weight": "",
+          "gears": "",
+          "brakeType": "",
+          "material": "Plastica"
+        },
+        "features": [
+          "Capacità di 45 litri",
+          "Cuscino schienale incluso",
+          "Design compatibile con CB350"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "crash-guard-cb300r",
+        "name": "Crash Guard con Slider per Honda CB300R",
+        "brand": "Zana Motorcycles",
+        "model": "CB300R",
+        "description": "Protegge il telaio e il motore da impatti laterali.",
+        "category": "Protezione",
+        "price": 149,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/r/crash-guard-cb300r.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio al Carbonio"
+        },
+        "features": [
+          "Design robusto",
+          "Facile installazione",
+          "Compatibile con CB300R"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.2
+      },
+      {
+        "id": "mirror-extender-cb350",
+        "name": "Estensori Specchietti per Honda CB350",
+        "brand": "Zana Motorcycles",
+        "model": "CB350",
+        "description": "Aumenta la visibilità laterale migliorando la sicurezza.",
+        "category": "Sicurezza",
+        "price": 18.7,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/m/i/mirror-extender-cb350.jpg"],
+        "colorOptions": ["Argento"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Facile installazione",
+          "Compatibile con specchietti originali",
+          "Design elegante"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "side-stand-extender-cb350",
+        "name": "Estensore Cavalletto Laterale per Honda CB350",
+        "brand": "Zana Motorcycles",
+        "model": "CB350",
+        "description": "Aumenta la superficie di appoggio per evitare che la moto affondi su superfici morbide.",
+        "category": "Accessori",
+        "price": 17,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/i/side-stand-extender-cb350.jpg"],
+        "colorOptions": ["Argento"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Facile installazione",
+          "Compatibile con cavalletto originale",
+          "Design robusto"
+        ],
+        "warranty": "6 mesi",
+        "rating": 5.0
+      },
+      {
+        "id": "top-box-cb350",
+        "name": "Top Box Plastica (45 Ltr) Nero con Cuscino Schienale per Honda CB350",
+        "brand": "Zana Motorcycles",
+        "model": "CB350",
+        "description": "Baule posteriore in plastica da 45 litri con cuscino schienale per comfort extra.",
+        "category": "Luggage",
+        "price": 189,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/t/o/top-box-cb350.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Plastica"
+        },
+        "features": [
+          "Capacità di 45 litri",
+          "Cuscino schienale incluso",
+          "Design compatibile con CB350"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "fog-light-mount-cb350",
+        "name": "Supporto per Luci Fendinebbia per Honda CB350",
+        "brand": "Zana Motorcycles",
+        "model": "CB350",
+        "description": "Fornisce un punto di montaggio sicuro per luci ausiliarie.",
+        "category": "Visibilità",
+        "price": 17.8,
+        "discount": 13,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/f/o/fog-light-mount-cb350.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio"
+        },
+        "features": [
+          "Compatibile con luci fendinebbia Zana",
+          "Facile installazione",
+          "Design robusto"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.3
+      },
+      {
+        "id": "handle-bar-riser-ktm-390",
+        "name": "Handle Bar Riser per KTM 390/250 / 390 X Adventure",
+        "brand": "Zana Motorcycles",
+        "model": "KTM 390/250 / 390 X Adventure",
+        "description": "Aumenta l'altezza del manubrio per una posizione di guida più comoda.",
+        "category": "Comfort",
+        "price": 75,
+        "discount": 17,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/h/a/handle-bar-riser-ktm-390.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Design robusto",
+          "Facile installazione",
+          "Compatibile con KTM 390/250 / 390 X Adventure"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.2
+      },
+      {
+        "id": "roadstar-saddle-bag-30l",
+        "name": "Roadstar Saddle Bag 30L per KTM Adventure",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Adventure",
+        "description": "Borsa laterale da 30 litri per trasportare l'equipaggiamento durante i viaggi.",
+        "category": "Luggage",
+        "price": 110.5,
+        "discount": 7,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/r/o/roadstar-saddle-bag-30l.jpg"],
+        "colorOptions": ["Nero"],
+        "sizeOptions": ["30L"],
+        "specifications": {
+          "material": "Poliestere resistente all'acqua"
+        },
+        "features": [
+          "Impermeabile",
+          "Facile da montare",
+          "Compatibile con KTM Adventure"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.0
+      },
+      {
+        "id": "vertical-handle-riser-ktm-390",
+        "name": "Vertical Handle Riser per KTM 390/250 / 390 X Adventure",
+        "brand": "Zana Motorcycles",
+        "model": "KTM 390/250 / 390 X Adventure",
+        "description": "Aumenta l'altezza del manubrio in verticale per migliorare la posizione di guida.",
+        "category": "Comfort",
+        "price": 65,
+        "discount": 17,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/v/e/vertical-handle-riser-ktm-390.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Design robusto",
+          "Facile installazione",
+          "Compatibile con KTM 390/250 / 390 X Adventure"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.0
+      },
+      {
+        "id": "top-rack-ktm-adv-390-type2",
+        "name": "Top Rack con Piastra Type-2 per KTM ADV 250/390/390 X",
+        "brand": "Zana Motorcycles",
+        "model": "KTM ADV 250/390/390 X",
+        "description": "Portapacchi superiore con piastra in alluminio per montare borse top box.",
+        "category": "Luggage",
+        "price": 106,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/t/o/top-rack-ktm-adv-390-type2.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Compatibile con GIVI, HEPCOBECKER & SHAD",
+          "Facile installazione",
+          "Design robusto"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.9
+      },
+      {
+        "id": "rear-footrest-ktm-adv-390",
+        "name": "Poggiapiedi Posteriori (Coppia) per KTM Adventure 250/390/390X/390 Rally",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Adventure 250/390/390X/390 Rally",
+        "description": "Poggiapiedi posteriori per migliorare il comfort del passeggero.",
+        "category": "Comfort",
+        "price": 28.9,
+        "discount": 15,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/r/e/rear-footrest-ktm-adv-390.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Facile installazione",
+          "Design ergonomico",
+          "Compatibile con KTM Adventure"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "crash-guard-texture-matt-black",
+        "name": "Crash Guard Texture Matt Black per KTM Duke 250/390 (2017-2018)",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 250/390 (2017-2018)",
+        "description": "Protezione robusta per il telaio e il motore da impatti laterali.",
+        "category": "Protezione",
+        "price": 169,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/r/crash-guard-texture-matt-black.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio al carbonio"
+        },
+        "features": [
+          "Design robusto",
+          "Facile installazione",
+          "Compatibile con KTM Duke 250/390 (2017-2018)"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "crash-guard-orange",
+        "name": "Crash Guard Arancione per KTM Duke 250/390 (2017-2018)",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 250/390 (2017-2018)",
+        "description": "Crash guard arancione per protezione laterale.",
+        "category": "Protezione",
+        "price": 169,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/r/crash-guard-orange.jpg"],
+        "colorOptions": ["Arancione"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio al carbonio"
+        },
+        "features": [
+          "Design robusto",
+          "Facile installazione",
+          "Compatibile con KTM Duke 250/390 (2017-2018)"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "front-fork-slider",
+        "name": "Front Fork Slider per KTM Duke 250/390 (2017-2018)",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 250/390 (2017-2018)",
+        "description": "Protezione per le forcelle anteriori da impatti.",
+        "category": "Protezione",
+        "price": 29,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/f/r/front-fork-slider.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Facile installazione",
+          "Compatibile con KTM Duke 250/390 (2017-2018)",
+          "Design elegante"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.2
+      },
+      {
+        "id": "saddle-stay",
+        "name": "Saddle Stay per KTM Duke 250/390 (2017-2018)",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 250/390 (2017-2018)",
+        "description": "Supporto per il portapacchi posteriore.",
+        "category": "Luggage",
+        "price": 69,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/a/saddle-stay.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio"
+        },
+        "features": [
+          "Facile installazione",
+          "Compatibile con KTM Duke 250/390 (2017-2018)",
+          "Design robusto"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "radiator-guard",
+        "name": "Radiator Guard Honeycomb Black per KTM Duke 390 Gen 3",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 390 Gen 3",
+        "description": "Protezione per il radiatore con design a nido d'ape.",
+        "category": "Protezione",
+        "price": 39,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/r/a/radiator-guard.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Facile installazione",
+          "Compatibile con KTM Duke 390 Gen 3",
+          "Design elegante"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.3
+      },
+      {
+        "id": "crash-guard-texture-matt-black",
+        "name": "Crash Guard Texture Matt Black per KTM Duke 250/390 (2019-2022)",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 250/390 (2019-2022)",
+        "description": "Protezione robusta per il telaio e il motore da impatti laterali.",
+        "category": "Protezione",
+        "price": 169,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/r/crash-guard-texture-matt-black.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio al carbonio"
+        },
+        "features": [
+          "Design robusto",
+          "Facile installazione",
+          "Compatibile con KTM Duke 250/390 (2019-2022)"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "front-fork-sliders",
+        "name": "Front Fork Sliders per KTM Duke 250/390 (2019-2022)",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 250/390 (2019-2022)",
+        "description": "Protezione per le forcelle anteriori da impatti.",
+        "category": "Protezione",
+        "price": 18,
+        "discount": 18,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/f/r/front-fork-sliders.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Facile installazione",
+          "Compatibile con KTM Duke 250/390 (2019-2022)",
+          "Design elegante"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.3
+      },
+      {
+        "id": "front-fluid-reservoir-cover",
+        "name": "Front Fluid Reservoir Cover per KTM Duke 250/390 (2019-2022)",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 250/390 (2019-2022)",
+        "description": "Coperchio in alluminio per il serbatoio del liquido freni.",
+        "category": "Estetica",
+        "price": 14,
+        "discount": 13,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/f/r/front-fluid-reservoir-cover.jpg"],
+        "colorOptions": ["Alluminio spazzolato"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Design elegante",
+          "Facile installazione",
+          "Compatibile con KTM Duke 250/390 (2019-2022)"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.2
+      },
+      {
+        "id": "rear-paddock-spools-with-swing-arm-protector",
+        "name": "Rear Paddock Spools with Swing Arm Protector per KTM Duke 250/390 (2019-2022)",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 250/390 (2019-2022)",
+        "description": "Poggiapiedi posteriori con protezione del forcellone.",
+        "category": "Manutenzione",
+        "price": 18,
+        "discount": 13,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/r/e/rear-paddock-spools-with-swing-arm-protector.jpg"],
+        "colorOptions": ["Argento"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio"
+        },
+        "features": [
+          "Facile installazione",
+          "Compatibile con KTM Duke 250/390 (2019-2022)",
+          "Design robusto"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "saddle-stay-texture-matt-black",
+        "name": "Saddle Stay Texture Matt Black per KTM Duke 250/390 (2019-2022)",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 250/390 (2019-2022)",
+        "description": "Supporto per il portapacchi posteriore.",
+        "category": "Luggage",
+        "price": 99,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/a/saddle-stay-texture-matt-black.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio"
+        },
+        "features": [
+          "Facile installazione",
+          "Compatibile con KTM Duke 250/390 (2019-2022)",
+          "Design robusto"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "crash-guard-with-slider",
+        "name": "Crash Guard con Slider per Husqvarna",
+        "brand": "Zana Motorcycles",
+        "model": "Husqvarna Svartpilen/Vitpilen",
+        "description": "Protezione robusta per il telaio e il motore da impatti laterali.",
+        "category": "Protezione",
+        "price": 169,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/r/crash-guard-with-slider.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio al carbonio"
+        },
+        "features": [
+          "Design robusto",
+          "Facile installazione",
+          "Compatibile con Husqvarna Svartpilen/Vitpilen"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.2
+      },
+      {
+        "id": "paddock-stand-glossy-red",
+        "name": "Paddock Stand Glossy Red per Svartpilen/Vitpilen",
+        "brand": "Zana Motorcycles",
+        "model": "Husqvarna Svartpilen/Vitpilen",
+        "description": "Supporto per manutenzione e stoccaggio con finitura rossa lucida.",
+        "category": "Manutenzione",
+        "price": 152,
+        "discount": 24,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/p/a/paddock-stand-glossy-red.jpg"],
+        "colorOptions": ["Rosso lucido"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio",
+          "capacity": "Fino a 250 kg"
+        },
+        "features": [
+          "Design pieghevole",
+          "Compatibile con moto dotate di spilli e sistemi di montaggio del forcellone",
+          "Facile da montare"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "paddock-stand-texture-matt-black",
+        "name": "Paddock Stand Texture Matt Black per Svartpilen/Vitpilen",
+        "brand": "Zana Motorcycles",
+        "model": "Husqvarna Svartpilen/Vitpilen",
+        "description": "Supporto per manutenzione e stoccaggio con finitura nera opaca.",
+        "category": "Manutenzione",
+        "price": 152,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/p/a/paddock-stand-texture-matt-black.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio",
+          "capacity": "Fino a 250 kg"
+        },
+        "features": [
+          "Design pieghevole",
+          "Compatibile con moto dotate di spilli e sistemi di montaggio del forcellone",
+          "Facile da montare"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "front-fork-sliders",
+        "name": "Front Fork Sliders per Husqvarna Svartpilen/Vitpilen",
+        "brand": "Zana Motorcycles",
+        "model": "Husqvarna Svartpilen/Vitpilen",
+        "description": "Protezione per le forcelle anteriori da impatti.",
+        "category": "Protezione",
+        "price": 18,
+        "discount": 13,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/f/r/front-fork-sliders.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Facile installazione",
+          "Compatibile con Husqvarna Svartpilen/Vitpilen",
+          "Design elegante"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.3
+      },
+      {
+        "id": "front-fluid-reservoir-cover",
+        "name": "Front Fluid Reservoir Cover per Husqvarna Svartpilen/Vitpilen",
+        "brand": "Zana Motorcycles",
+        "model": "Husqvarna Svartpilen/Vitpilen",
+        "description": "Coperchio in alluminio per il serbatoio del liquido freni.",
+        "category": "Estetica",
+        "price": 14,
+        "discount": 13,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/f/r/front-fluid-reservoir-cover.jpg"],
+        "colorOptions": ["Alluminio spazzolato"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Design elegante",
+          "Facile installazione",
+          "Compatibile con Husqvarna Svartpilen/Vitpilen"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.2
+      },
+      {
+        "id": "crash-guard-with-slider-black-versys-650",
+        "name": "Crash Guard con Slider Nero per Kawasaki Versys 650",
+        "brand": "Zana Motorcycles",
+        "model": "Kawasaki Versys 650",
+        "description": "Protezione robusta per il telaio e il motore da impatti laterali.",
+        "category": "Protezione",
+        "price": 260,
+        "discount": 17,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/r/crash-guard-with-slider-black-for-kawasaki-versys-650-bs6-20162023.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio al carbonio"
+        },
+        "features": [
+          "Design robusto",
+          "Facile installazione",
+          "Compatibile con Kawasaki Versys 650"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.8
+      },
+      {
+        "id": "front-fork-slider-versys-650",
+        "name": "Front Fork Slider per Kawasaki Versys 650",
+        "brand": "Zana Motorcycles",
+        "model": "Kawasaki Versys 650",
+        "description": "Protezione per le forcelle anteriori da impatti.",
+        "category": "Protezione",
+        "price": 50,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/f/r/front-fork-slider-for-versys-650.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Facile installazione",
+          "Compatibile con Kawasaki Versys 650",
+          "Design elegante"
+        ],
+        "warranty": "6 mesi",
+        "rating": 5.0
+      },
+      {
+        "id": "side-stand-extender-versys-650",
+        "name": "Side Stand Extender per Kawasaki Versys 650",
+        "brand": "Zana Motorcycles",
+        "model": "Kawasaki Versys 650",
+        "description": "Estensione del cavalletto laterale per migliorare la stabilità.",
+        "category": "Manutenzione",
+        "price": 34,
+        "discount": 0,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/i/side-stand-extender-for-kawasaki-versys-650.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Facile installazione",
+          "Compatibile con Kawasaki Versys 650",
+          "Design robusto"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "saddle-stay-v2-versys-650",
+        "name": "Saddle Stay V2 con Shield per Kawasaki Versys 650",
+        "brand": "Zana Motorcycles",
+        "model": "Kawasaki Versys 650",
+        "description": "Supporto per borse laterali con protezione per il terminale di scarico.",
+        "category": "Luggage",
+        "price": 62.9,
+        "discount": 18,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/a/saddle-stay-v2-with-exhaust-shield-for-kawasaki-versys-650.jpg"],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio"
+        },
+        "features": [
+          "Compatibile con borse laterali",
+          "Facile installazione",
+          "Design robusto"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.0
+      },
+      {
+        "id": "top-rack-plate-aluminium-versys-650",
+        "name": "Top Rack Plate in Alluminio per Kawasaki Versys 650",
+        "brand": "Zana Motorcycles",
+        "model": "Kawasaki Versys 650",
+        "description": "Piastra superiore in alluminio per supporto bagagli.",
+        "category": "Luggage",
+        "price": 89,
+        "discount": 16,
+        "stock": 0,
+        "images": ["https://www.zanamotorcycles.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/t/o/top-rack-plate-aluminium-for-kawasaki-versys-650.jpg"],
+        "colorOptions": ["Alluminio spazzolato"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio"
+        },
+        "features": [
+          "Compatibile con borse laterali",
+          "Facile installazione",
+          "Design elegante"
+        ],
+        "warranty": "6 mesi",
+        "rating": 0
+      },
+      {
+        "id": "zfl-15",
+        "name": "Universal LED Fog Light ZFL-15",
+        "brand": "Zana Motorcycles",
+        "model": "Kawasaki Ninja 300",
+        "description": "Faro fendinebbia LED compatto con doppia modalità di illuminazione (bianco e giallo), progettato per migliorare la visibilità in ambienti urbani e su strade accidentate.",
+        "category": "Illuminazione",
+        "price": 10.0,
+        "discount": null,
+        "stock": 10,
+        "images": [],
+        "colorOptions": [],
+        "sizeOptions": [],
+        "specifications": {
+          "brightness": "3.500 lumen (coppia)",
+          "powerConsumption": "30W (coppia)",
+          "voltageRange": "12V-15V",
+          "beamDistance": "Oltre 200 metri",
+          "dimensions": "64mm x 45mm x 37mm",
+          "weight": "276g per pezzo",
+          "waterproofRating": "IP68"
+        },
+        "features": [
+          "Modalità di illuminazione doppia: bianco e giallo",
+          "Controllo Bluetooth per la commutazione delle modalità",
+          "Opzioni di montaggio multiple: inferiore, sinistra, superiore, destra",
+          "Resistente agli urti e impermeabile",
+          "Costruzione CNC di alta qualità"
+        ],
+        "warranty": "18 mesi standard; estensione opzionale di 2 anni",
+        "rating": 4.1
+      },
+      {
+        "id": "zfl-20",
+        "name": "Universal LED Fog Light ZFL-20",
+        "brand": "Zana Motorcycles",
+        "model": "Kawasaki Ninja 300",
+        "description": "Faro fendinebbia LED ad alte prestazioni con modalità di fascio doppio (alto e basso) e luce bianca e gialla, ideale per ambienti urbani e fuoristrada.",
+        "category": "Illuminazione",
+        "price": 10.0,
+        "discount": null,
+        "stock": 10,
+        "images": [],
+        "colorOptions": [],
+        "sizeOptions": [],
+        "specifications": {
+          "brightness": "6.000 lumen (coppia)",
+          "powerConsumption": "40W (coppia)",
+          "voltageRange": "12V-15V",
+          "beamDistance": "Oltre 300 metri",
+          "dimensions": "63mm x 98mm",
+          "weight": "130g per pezzo",
+          "waterproofRating": "IP68"
+        },
+        "features": [
+          "Modalità di fascio doppio: alto e basso",
+          "Luce bianca e gialla per diverse condizioni",
+          "Opzioni di montaggio flessibili",
+          "Costruzione CNC leggera e resistente",
+          "Resistente agli urti e impermeabile"
+        ],
+        "warranty": "18 mesi standard; estensione opzionale di 2 anni",
+        "rating": 4.8
+      },
+      {
+        "id": "crash-guard-slider-hunter-350",
+        "name": "Crash Guard con Slider Nero MS per Royal Enfield Hunter 350",
+        "brand": "Zana Motorcycles",
+        "model": "Hunter 350",
+        "description": "Crash guard resistente con slider integrato per protezione avanzata.",
+        "category": "Protezione",
+        "price": 136,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio dolce",
+          "finish": "Texture nero opaco"
+        },
+        "features": [
+          "Protezione completa del motore",
+          "Slider integrati per assorbire gli urti",
+          "Design compatibile con Hunter 350"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.9
+      },
+      {
+        "id": "top-box-45ltr-super-meteor-650",
+        "name": "Top Box in Plastica (45 litri) Nero con Schienale per Super Meteor 650",
+        "brand": "Zana Motorcycles",
+        "model": "Super Meteor 650",
+        "description": "Top box spazioso con schienale integrato per comfort del passeggero.",
+        "category": "Bagagli",
+        "price": 119,
+        "discount": 7,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "capacità": "45 litri",
+          "materiale": "Plastica resistente"
+        },
+        "features": [
+          "Ampio spazio di stivaggio",
+          "Schienale per comfort del passeggero",
+          "Installazione facile e sicura"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "gps-mount-himalayan-450",
+        "name": "Supporto GPS in Alluminio per Himalayan 450",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 450",
+        "description": "Supporto robusto per dispositivi GPS, progettato specificamente per Himalayan 450.",
+        "category": "Navigazione",
+        "price": 39,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Alluminio"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Alluminio",
+          "compatibilità": "Himalayan 450"
+        },
+        "features": [
+          "Montaggio stabile per dispositivi GPS",
+          "Costruzione durevole in alluminio",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "radiator-guard-gt-interceptor-650",
+        "name": "Protezione Radiatore per GT & Interceptor 650 (Bandiera UK Nera)",
+        "brand": "Zana Motorcycles",
+        "model": "GT/Interceptor 650",
+        "description": "Griglia di protezione del radiatore con design della bandiera UK in nero.",
+        "category": "Protezione",
+        "price": 55,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio inossidabile",
+          "design": "Bandiera UK"
+        },
+        "features": [
+          "Protezione efficace del radiatore",
+          "Design distintivo",
+          "Resistente alla corrosione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.7
+      },
+      {
+        "id": "saddle-stay-super-meteor-650",
+        "name": "Supporto per Borse Laterali con Protezione Scarico e Supporto Jerry Can per Super Meteor 650",
+        "brand": "Zana Motorcycles",
+        "model": "Super Meteor 650",
+        "description": "Supporto multifunzionale per borse laterali con protezione per lo scarico e supporto per tanica.",
+        "category": "Bagagli",
+        "price": 139,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio dolce",
+          "finitura": "Nero opaco"
+        },
+        "features": [
+          "Supporto per borse laterali",
+          "Protezione per lo scarico",
+          "Supporto per tanica integrato"
+        ],
+        "warranty": "6 mesi",
+        "rating": 5.0
+      },
+      {
+        "id": "mirror-extender-classic-350-reborn",
+        "name": "Estensore Specchietto in Alluminio per Classic 350 Reborn",
+        "brand": "Zana Motorcycles",
+        "model": "Classic 350 Reborn",
+        "description": "Estensore per specchietti retrovisori per una migliore visibilità.",
+        "category": "Comfort",
+        "price": 18.7,
+        "discount": 21,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Alluminio"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Alluminio",
+          "compatibilità": "Classic 350 Reborn"
+        },
+        "features": [
+          "Migliora la visibilità posteriore",
+          "Facile da installare",
+          "Design leggero e resistente"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.8
+      },
+      {
+        "id": "radiator-guard-honeycomb",
+        "name": "Radiator Guard per GT & Interceptor 650 (Alluminio a Nido d'Ape)",
+        "brand": "Zana Motorcycles",
+        "model": "GT/Interceptor 650",
+        "description": "Griglia protettiva per radiatore in alluminio con design a nido d'ape.",
+        "category": "Protezione",
+        "price": 39.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Alluminio"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio",
+          "design": "Nido d'ape"
+        },
+        "features": [
+          "Protezione efficace del radiatore",
+          "Design leggero e resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.0
+      },
+      {
+        "id": "crash-guard-ms-slider-glossy-black",
+        "name": "Crash Guard in Acciaio Dolci con Slider Nero Lucido per GT & Interceptor 650",
+        "brand": "Zana Motorcycles",
+        "model": "GT/Interceptor 650",
+        "description": "Crash guard robusto con slider integrati per protezione avanzata.",
+        "category": "Protezione",
+        "price": 123.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero lucido"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio dolce",
+          "finitura": "Nero lucido"
+        },
+        "features": [
+          "Protezione completa del motore",
+          "Slider integrati per assorbire gli urti",
+          "Design compatibile con GT & Interceptor 650"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.8
+      },
+      {
+        "id": "saddle-stay-ms-exhaust-shield-matt-black",
+        "name": "Supporto per Borse Laterali in Acciaio Dolci con Protezione Scarico Nero Opaco per GT & Interceptor 650",
+        "brand": "Zana Motorcycles",
+        "model": "GT/Interceptor 650",
+        "description": "Supporto per borse laterali con protezione per lo scarico.",
+        "category": "Bagagli",
+        "price": 89.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio dolce",
+          "finitura": "Nero opaco"
+        },
+        "features": [
+          "Supporto stabile per borse laterali",
+          "Protezione per lo scarico integrata",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 5.0
+      },
+      {
+        "id": "rear-footrest-gt-interceptor-650",
+        "name": "Pedane Posteriori per GT / Interceptor 650",
+        "brand": "Zana Motorcycles",
+        "model": "GT/Interceptor 650",
+        "description": "Pedane posteriori per comfort del passeggero.",
+        "category": "Comfort",
+        "price": 28.90,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": [],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio",
+          "compatibilità": "GT / Interceptor 650"
+        },
+        "features": [
+          "Comfort migliorato per il passeggero",
+          "Design resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "clip-on-riser-gt650",
+        "name": "Riser Clip-On per Continental GT650",
+        "brand": "Zana Motorcycles",
+        "model": "Continental GT650",
+        "description": "Riser clip-on per una posizione di guida più comoda.",
+        "category": "Comfort",
+        "price": 65.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": [],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Alluminio",
+          "compatibilità": "Continental GT650"
+        },
+        "features": [
+          "Migliora la posizione di guida",
+          "Costruzione leggera e resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "saddle-stay-ms-exhaust-shield-jerry-can",
+        "name": "Supporto per Borse Laterali in Acciaio Dolci con Protezione Scarico e Supporto Jerry Can per GT & Interceptor 650",
+        "brand": "Zana Motorcycles",
+        "model": "GT/Interceptor 650",
+        "description": "Supporto multifunzionale per borse laterali con protezione per lo scarico e supporto per tanica.",
+        "category": "Bagagli",
+        "price": 109.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Acciaio dolce",
+          "finitura": "Nero opaco"
+        },
+        "features": [
+          "Supporto per borse laterali",
+          "Protezione per lo scarico",
+          "Supporto per tanica integrato"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.3
+      },
+      {
+        "id": "universal-mobile-holder-usb",
+        "name": "Supporto Universale per Smartphone con Caricatore USB",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 411",
+        "description": "Supporto per smartphone con caricatore USB integrato, compatibile con vari modelli.",
+        "category": "Navigazione",
+        "price": 45.9,
+        "discount": 10,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "compatibilità": "Universale",
+          "funzionalità": "Caricatore USB integrato"
+        },
+        "features": [
+          "Installazione semplice",
+          "Design resistente",
+          "Caricatore USB integrato"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.2
+      },
+      {
+        "id": "saddle-stay-v2-jerrycan",
+        "name": "Supporto per Borse Laterali V-2 con Protezione Scarico e Supporto Tanica",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 411",
+        "description": "Supporto per borse laterali con protezione per lo scarico e supporto per tanica integrato.",
+        "category": "Bagagli",
+        "price": 132.0,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio dolce",
+          "finitura": "Nero opaco"
+        },
+        "features": [
+          "Supporto per borse laterali",
+          "Protezione per lo scarico",
+          "Supporto per tanica integrato"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.9
+      },
+      {
+        "id": "crash-guard-slider-bs3-bs4",
+        "name": "Crash Guard con Slider per Himalayan BS3/BS4 (2016–2019)",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 411",
+        "description": "Crash guard robusto con slider integrati per protezione avanzata.",
+        "category": "Protezione",
+        "price": 179.0,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio dolce",
+          "compatibilità": "BS3/BS4 (2016–2019)"
+        },
+        "features": [
+          "Protezione completa del motore",
+          "Slider integrati per assorbire gli urti",
+          "Design compatibile con Himalayan 411"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "fog-light-mount-2016-2020",
+        "name": "Supporto per Fari Fendinebbia per Himalayan (2016–2020)",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 411",
+        "description": "Supporto per l'installazione di fari fendinebbia, compatibile con modelli 2016–2020.",
+        "category": "Illuminazione",
+        "price": 32.0,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "compatibilità": "2016–2020",
+          "materiale": "Acciaio"
+        },
+        "features": [
+          "Installazione semplice",
+          "Design resistente",
+          "Compatibile con vari modelli di fari"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.3
+      },
+      {
+        "id": "mudguard-riser-2016-2020",
+        "name": "Rialzo Parafango per Himalayan (2016–2020)",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 411",
+        "description": "Rialzo per parafango anteriore, migliora la distanza dal suolo.",
+        "category": "Protezione",
+        "price": 20.0,
+        "discount": 29,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "compatibilità": "2016–2020",
+          "materiale": "Alluminio"
+        },
+        "features": [
+          "Migliora la distanza dal suolo",
+          "Facile installazione",
+          "Design resistente"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "headlight-grill-ss-type0",
+        "name": "Griglia Faro Anteriore SS Tipo 0 Nero per Himalayan (2016–2022)",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 411",
+        "description": "Griglia protettiva per faro anteriore in acciaio inossidabile, design Tipo 0.",
+        "category": "Protezione",
+        "price": 29.0,
+        "discount": 15,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio inossidabile",
+          "design": "Tipo 0"
+        },
+        "features": [
+          "Protezione efficace del faro",
+          "Design distintivo",
+          "Resistente alla corrosione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "bash-plate-aluminum-black",
+        "name": "Piastra Paramotore in Alluminio Nera per Himalayan BS6 (2021–22)",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 411 BS6",
+        "description": "Piastra paramotore in alluminio nero per protezione del motore.",
+        "category": "Protezione",
+        "price": 85.00,
+        "discount": 17,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Alluminio",
+          "compatibilità": "BS6 (2021–22)"
+        },
+        "features": [
+          "Protezione efficace del motore",
+          "Design leggero e resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "handle-riser-aluminum",
+        "name": "Riser Manubrio Angolare in Alluminio per Himalayan BS6",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 411 BS6",
+        "description": "Riser manubrio angolare in alluminio per una posizione di guida più comoda.",
+        "category": "Comfort",
+        "price": 60.00,
+        "discount": 17,
+        "stock": 10,
+        "images": [],
+        "colorOptions": [],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Alluminio",
+          "compatibilità": "BS6"
+        },
+        "features": [
+          "Migliora la posizione di guida",
+          "Costruzione leggera e resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.9
+      },
+      {
+        "id": "top-box-45l-black",
+        "name": "Top Box in Plastica da 45 litri Nero con Cuscino Schienale",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 411 BS6",
+        "description": "Top box in plastica da 45 litri nero con cuscino schienale per maggiore comfort.",
+        "category": "Bagagli",
+        "price": 119.00,
+        "discount": 7,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "capacità": "45 litri",
+          "materiale": "Plastica"
+        },
+        "features": [
+          "Ampio spazio di archiviazione",
+          "Cuscino schienale per comfort del passeggero",
+          "Design resistente"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.0
+      },
+      {
+        "id": "headlight-grill-ss-type4a",
+        "name": "Griglia Faro SS Tipo 4A Nera per Himalayan BS6 (2021–22)",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 411 BS6",
+        "description": "Griglia protettiva per faro anteriore in acciaio inossidabile, design Tipo 4A.",
+        "category": "Protezione",
+        "price": 29.00,
+        "discount": 15,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio inossidabile",
+          "design": "Tipo 4A"
+        },
+        "features": [
+          "Protezione efficace del faro",
+          "Design distintivo",
+          "Resistente alla corrosione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.9
+      },
+      {
+        "id": "crash-guard-slider-silver",
+        "name": "Crash Guard con Slider in Acciaio Dolci Argento per Himalayan BS6 (2021–22)",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 411 BS6",
+        "description": "Crash guard robusto con slider integrati per protezione avanzata.",
+        "category": "Protezione",
+        "price": 179.00,
+        "discount": 16,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Argento"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio dolce",
+          "finitura": "Argento"
+        },
+        "features": [
+          "Protezione completa del motore",
+          "Slider integrati per assorbire gli urti",
+          "Design compatibile con Himalayan BS6"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.8
+      },
+      {
+        "id": "engine-frame-matt-black",
+        "name": "Telaio Motore Nero Opaco per Himalayan/Scram 411 BS6 (2021–22)",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 411 BS6",
+        "description": "Telaio motore nero opaco compatibile con Himalayan e Scram 411 BS6.",
+        "category": "Protezione",
+        "price": 62.00,
+        "discount": 9,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio",
+          "compatibilità": "Himalayan/Scram 411 BS6"
+        },
+        "features": [
+          "Protezione aggiuntiva per il motore",
+          "Design resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "front-fluid-reservoir-cover",
+        "name": "Front Fluid Reservoir Cover Aluminum for Super Meteor 650",
+        "brand": "Zana Motorcycles",
+        "model": "Super Meteor 650",
+        "description": "Aluminum cover for the front fluid reservoir, enhancing protection and aesthetics.",
+        "category": "Protection",
+        "price": 6.8,
+        "discount": 33,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Aluminum"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Aluminum"
+        },
+        "features": [
+          "Durable aluminum construction",
+          "Protects fluid reservoir",
+          "Enhances bike appearance"
+        ],
+        "warranty": "6 months",
+        "rating": 4.9
+      },
+      {
+        "id": "top-rack-pillion-backrest",
+        "name": "Top Rack Sheet Metal with Pillion Backrest for Super Meteor 650",
+        "brand": "Zana Motorcycles",
+        "model": "Super Meteor 650",
+        "description": "Sheet metal top rack combined with a comfortable pillion backrest for enhanced passenger comfort.",
+        "category": "Luggage",
+        "price": 119,
+        "discount": 16,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Sheet Metal"
+        },
+        "features": [
+          "Integrated pillion backrest",
+          "Sturdy luggage support",
+          "Easy installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.8
+      },
+      {
+        "id": "rear-footrest-pair",
+        "name": "Rear Footrest for Super Meteor 650 (Pair) - MS",
+        "brand": "Zana Motorcycles",
+        "model": "Super Meteor 650",
+        "description": "Mild steel rear footrests providing additional comfort for the passenger.",
+        "category": "Comfort",
+        "price": 28.9,
+        "discount": 15,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild Steel"
+        },
+        "features": [
+          "Durable construction",
+          "Enhanced passenger comfort",
+          "Corrosion-resistant finish"
+        ],
+        "warranty": "6 months",
+        "rating": 4.5
+      },
+      {
+        "id": "crash-guard-slider-type2",
+        "name": "Crash Guard for Super Meteor 650 with Slider (MS) - Type 2",
+        "brand": "Zana Motorcycles",
+        "model": "Super Meteor 650",
+        "description": "Mild steel crash guard with integrated sliders for superior protection.",
+        "category": "Protection",
+        "price": 99,
+        "discount": 6,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild Steel"
+        },
+        "features": [
+          "Integrated sliders for impact absorption",
+          "Robust construction",
+          "Easy to install"
+        ],
+        "warranty": "6 months",
+        "rating": 4.5
+      },
+      {
+        "id": "top-rack-backrest-ms",
+        "name": "Top Rack Compatible with Royal Enfield Backrest MS for Super Meteor 650",
+        "brand": "Zana Motorcycles",
+        "model": "Super Meteor 650",
+        "description": "Mild steel top rack designed to be compatible with Royal Enfield backrests.",
+        "category": "Luggage",
+        "price": 89,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild Steel"
+        },
+        "features": [
+          "Compatible with OEM backrests",
+          "High load capacity",
+          "Durable finish"
+        ],
+        "warranty": "6 months",
+        "rating": 4.0
+      },
+      {
+        "id": "side-stand-extender",
+        "name": "Side Stand Extender Aluminum & SS for Royal Enfield Super Meteor 650",
+        "brand": "Zana Motorcycles",
+        "model": "Super Meteor 650",
+        "description": "Aluminum and stainless steel side stand extender for improved stability on uneven surfaces.",
+        "category": "Stand",
+        "price": 17,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Silver"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Aluminum & Stainless Steel"
+        },
+        "features": [
+          "Enhanced stability",
+          "Corrosion-resistant materials",
+          "Simple installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.9
+      },
+      {
+        "id": "handlebar-riser-vertical",
+        "name": "Handlebar Riser for Super Meteor 650 (Vertical, Aluminum)",
+        "brand": "Zana Motorcycles",
+        "model": "Super Meteor 650",
+        "description": "Aluminum vertical handlebar riser for improved rider ergonomics.",
+        "category": "Comfort",
+        "price": 40.8,
+        "discount": 11,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Silver"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Aluminum"
+        },
+        "features": [
+          "Improves riding posture",
+          "Lightweight design",
+          "Easy to install"
+        ],
+        "warranty": "6 months",
+        "rating": 4.4
+      },
+      {
+        "id": "rear-master-cylinder-cover",
+        "name": "Rear Master Cylinder Cover Aluminum BIG for Super Meteor 650",
+        "brand": "Zana Motorcycles",
+        "model": "Super Meteor 650",
+        "description": "Large aluminum cover for the rear master cylinder, offering protection and style.",
+        "category": "Protection",
+        "price": 18.7,
+        "discount": 27,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Silver"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Aluminum"
+        },
+        "features": [
+          "Protects master cylinder",
+          "Sleek design",
+          "Durable build"
+        ],
+        "warranty": "6 months",
+        "rating": 4.1
+      },
+      {
+        "id": "top-box-plastic-45l-black",
+        "name": "Top Box in Plastica da 45 litri Nero con Cuscino Schienale",
+        "brand": "Zana Motorcycles",
+        "model": "Suzuki V-Strom SX 250",
+        "description": "Top box in plastica da 45 litri nero con cuscino schienale per maggiore comfort.",
+        "category": "Bagagli",
+        "price": 119.00,
+        "discount": 7,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "capacità": "45 litri",
+          "materiale": "Plastica"
+        },
+        "features": [
+          "Ampio spazio di archiviazione",
+          "Cuscino schienale per comfort del passeggero",
+          "Design resistente"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.8
+      },
+      {
+        "id": "gps-mount-aluminum-stainless",
+        "name": "Supporto GPS in Alluminio e Acciaio Inossidabile per Suzuki V-Strom 250",
+        "brand": "Zana Motorcycles",
+        "model": "Suzuki V-Strom SX 250",
+        "description": "Supporto GPS in alluminio e acciaio inossidabile per una navigazione sicura.",
+        "category": "Navigazione",
+        "price": 17.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": [],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Alluminio e acciaio inossidabile",
+          "compatibilità": "Suzuki V-Strom SX 250"
+        },
+        "features": [
+          "Installazione semplice",
+          "Design resistente",
+          "Compatibile con vari dispositivi GPS"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "handle-riser-aluminum",
+        "name": "Riser Manubrio Verticale in Alluminio per Suzuki V-Strom 250",
+        "brand": "Zana Motorcycles",
+        "model": "Suzuki V-Strom SX 250",
+        "description": "Riser manubrio verticale in alluminio per una posizione di guida più comoda.",
+        "category": "Comfort",
+        "price": 35.70,
+        "discount": 13,
+        "stock": 10,
+        "images": [],
+        "colorOptions": [],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Alluminio",
+          "compatibilità": "Suzuki V-Strom SX 250"
+        },
+        "features": [
+          "Migliora la posizione di guida",
+          "Costruzione leggera e resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.2
+      },
+      {
+        "id": "crash-guard-ms-slider-black",
+        "name": "Crash Guard in Acciaio Dolci con Slider Nero per V-Strom 250",
+        "brand": "Zana Motorcycles",
+        "model": "Suzuki V-Strom SX 250",
+        "description": "Crash guard robusto in acciaio dolci con slider integrati per protezione avanzata.",
+        "category": "Protezione",
+        "price": 160.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio dolci",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Protezione completa del motore",
+          "Slider integrati per assorbire gli urti",
+          "Design compatibile con V-Strom 250"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "rear-footrest-pair",
+        "name": "Poggiapiedi Posteriori (Coppia) per Suzuki V-Strom 250",
+        "brand": "Zana Motorcycles",
+        "model": "Suzuki V-Strom SX 250",
+        "description": "Poggiapiedi posteriori in coppia per maggiore comfort del passeggero.",
+        "category": "Comfort",
+        "price": 28.90,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": [],
+        "sizeOptions": [],
+        "specifications": {
+          "compatibilità": "Suzuki V-Strom SX 250"
+        },
+        "features": [
+          "Comfort per il passeggero",
+          "Design resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "bash-plate-black-ms",
+        "name": "Piastra Paramotore Nera in Acciaio Dolci per V-Strom 250",
+        "brand": "Zana Motorcycles",
+        "model": "Suzuki V-Strom SX 250",
+        "description": "Piastra paramotore nera in acciaio dolci per protezione del motore.",
+        "category": "Protezione",
+        "price": 94.00,
+        "discount": 16,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio dolci",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Protezione efficace del motore",
+          "Design resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.8
+      },
+      {
+        "id": "front-fork-slider-scrambler-400x",
+        "name": "Front Fork Slider for Triumph Scrambler 400 X",
+        "brand": "Zana Motorcycles",
+        "model": "Scrambler 400 X",
+        "description": "Provides protection to the front forks during impacts.",
+        "category": "Protection",
+        "price": 18.7,
+        "discount": 21,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "High-grade plastic and metal"
+        },
+        "features": [
+          "Easy installation",
+          "Durable construction",
+          "Enhances bike aesthetics"
+        ],
+        "warranty": "6 months",
+        "rating": 4.1
+      },
+      {
+        "id": "side-stand-extender-scrambler-400x",
+        "name": "Side Stand Extender Black for Triumph Scrambler 400 X",
+        "brand": "Zana Motorcycles",
+        "model": "Scrambler 400 X",
+        "description": "Increases the surface area of the side stand for better stability.",
+        "category": "Stand",
+        "price": 25.5,
+        "discount": 17,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Aluminum alloy"
+        },
+        "features": [
+          "Prevents bike from sinking into soft surfaces",
+          "Lightweight and durable",
+          "Corrosion-resistant finish"
+        ],
+        "warranty": "6 months",
+        "rating": 4.3
+      },
+      {
+        "id": "crash-guard-puck-scrambler-400x",
+        "name": "Crash Guard with Puck Slider Black for Triumph Scrambler 400 X",
+        "brand": "Zana Motorcycles",
+        "model": "Scrambler 400 X",
+        "description": "Offers protection to the engine and bodywork during falls.",
+        "category": "Protection",
+        "price": 146,
+        "discount": 17,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild steel with slider pucks"
+        },
+        "features": [
+          "Robust construction",
+          "Slider pucks reduce impact",
+          "Custom fit for the model"
+        ],
+        "warranty": "6 months",
+        "rating": 4.5
+      },
+      {
+        "id": "crash-guard-slider-scrambler-400x",
+        "name": "Crash Guard with Slider Black for Triumph Scrambler 400 X",
+        "brand": "Zana Motorcycles",
+        "model": "Scrambler 400 X",
+        "description": "Protects the motorcycle's engine and frame during accidents.",
+        "category": "Protection",
+        "price": 139,
+        "discount": 17,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild steel with integrated sliders"
+        },
+        "features": [
+          "Enhanced protection",
+          "Durable finish",
+          "Easy to install"
+        ],
+        "warranty": "6 months",
+        "rating": 4.3
+      },
+      {
+        "id": "back-rest-speed-400",
+        "name": "Back Rest Black for Triumph Speed 400",
+        "brand": "Zana Motorcycles",
+        "model": "Speed 400",
+        "description": "Provides added comfort for the pillion rider.",
+        "category": "Comfort",
+        "price": 33,
+        "discount": 3,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild steel with cushioned pad"
+        },
+        "features": [
+          "Ergonomic design",
+          "Easy bolt-on installation",
+          "Matches bike aesthetics"
+        ],
+        "warranty": "6 months",
+        "rating": 5.0
+      },
+      {
+        "id": "handlebar-riser-speed-400",
+        "name": "Offset Handle Bar Riser Black for Triumph Speed 400",
+        "brand": "Zana Motorcycles",
+        "model": "Speed 400",
+        "description": "Raises the handlebar position for a more comfortable riding posture.",
+        "category": "Ergonomics",
+        "price": 40.8,
+        "discount": 20,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Aluminum alloy"
+        },
+        "features": [
+          "Improves rider comfort",
+          "Anodized finish",
+          "Simple installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.2
+      },
+      {
+        "id": "saddle-stay-speed-400",
+        "name": "Saddle Stay Mild Steel with Jerry Can Mount for Triumph Speed 400",
+        "brand": "Zana Motorcycles",
+        "model": "Speed 400",
+        "description": "Supports saddlebags and includes a mount for carrying a jerry can.",
+        "category": "Luggage",
+        "price": 132,
+        "discount": 0,
+        "stock": 10,
+        "images": [],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild steel"
+        },
+        "features": [
+          "Dual functionality",
+          "Sturdy construction",
+          "Corrosion-resistant coating"
+        ],
+        "warranty": "6 months",
+        "rating": 4.3
+      },
+      {
+        "id": "crash-guard-zi-8108",
+        "name": "Crash Guard per KTM Duke 200 BS6",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 200 BS6",
+        "description": "Crash guard robusto con slider integrati per protezione avanzata.",
+        "category": "Protezione",
+        "price": 4799.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://sapmotors.com/wp-content/uploads/2021/09/Crash-Guard-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio dolce",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Protezione completa del motore",
+          "Slider integrati per assorbire gli urti",
+          "Design compatibile con KTM Duke 200 BS6"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.8
+      },
+      {
+        "id": "saddle-stay-orange-zi-5020",
+        "name": "Saddle Stay Arancione per Duke 200 BS6",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 200 BS6",
+        "description": "Saddle stay arancione per montaggio di borse laterali.",
+        "category": "Bagagli",
+        "price": 2698.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://sapmotors.com/wp-content/uploads/2021/09/Saddle-Stay-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Arancione"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio dolce",
+          "finitura": "Arancione"
+        },
+        "features": [
+          "Supporto per borse laterali",
+          "Design resistente",
+          "Compatibile con KTM Duke 200 BS6"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "top-rack-plate-t1-zi-8112",
+        "name": "Top Rack con Piastra T-1 per KTM Duke 200 BS6",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 200 BS6",
+        "description": "Top rack con piastra T-1 per montaggio di top box.",
+        "category": "Bagagli",
+        "price": 3999.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://sapmotors.com/wp-content/uploads/2021/09/Top-Rack-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Alluminio",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Supporto per top box",
+          "Design leggero e resistente",
+          "Compatibile con KTM Duke 200 BS6"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.7
+      },
+      {
+        "id": "front-fork-sliders-zi-8090",
+        "name": "Sliders per Forcella Anteriore per Duke 200 BS6",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 200 BS6",
+        "description": "Sliders per forcella anteriore per protezione in caso di caduta.",
+        "category": "Protezione",
+        "price": 1999.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Front-Fork-Sliders-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Polimero industriale",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Protezione della forcella anteriore",
+          "Design resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "paddock-stand-zi-8114",
+        "name": "Cavalletto Posteriore per Duke 200 BS6",
+        "brand": "Zana Motorcycles",
+        "model": "KTM Duke 200 BS6",
+        "description": "Cavalletto posteriore per manutenzione e parcheggio stabile.",
+        "category": "Manutenzione",
+        "price": 3799.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Paddock-Stand-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio",
+          "finitura": "Nero opaco"
+        },
+        "features": [
+          "Supporto stabile per manutenzione",
+          "Design resistente",
+          "Compatibile con KTM Duke 200 BS6"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "full-body-crash-guard",
+        "name": "Full Body Crash Guard for KTM Duke 390 Gen 3",
+        "brand": "Zana Motorcycles",
+        "model": "Duke 390 Gen 3",
+        "description": "Provides comprehensive protection to the bike's bodywork and engine components.",
+        "category": "Protection",
+        "price": 3499,
+        "discount": 7,
+        "stock": 10,
+        "images": ["https://primocustoms.co.in/products/ktm-duke-gen-3-full-body-crash-guard"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild Steel",
+          "finish": "Powder Coated"
+        },
+        "features": [
+          "Full body protection",
+          "Durable construction",
+          "Easy installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.5
+      },
+      {
+        "id": "crash-guard-with-slider",
+        "name": "Crash Guard with Slider for KTM Duke 390 Gen 3",
+        "brand": "Zana Motorcycles",
+        "model": "Duke 390 Gen 3",
+        "description": "Offers protection to the engine and bodywork during falls with integrated sliders.",
+        "category": "Protection",
+        "price": 3999,
+        "discount": 10,
+        "stock": 10,
+        "images": ["https://motodrift.co.in/products/ktm-duke-390-gen-3-crash-guard-with-slider"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild Steel",
+          "finish": "Powder Coated"
+        },
+        "features": [
+          "Engine and bodywork protection",
+          "Integrated slider pucks",
+          "Easy installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.7
+      },
+      {
+        "id": "side-stand-extender",
+        "name": "Side Stand Extender for KTM Duke 390 Gen 3",
+        "brand": "Zana Motorcycles",
+        "model": "Duke 390 Gen 3",
+        "description": "Increases the surface area of the side stand for better stability on uneven surfaces.",
+        "category": "Stand",
+        "price": 999,
+        "discount": 5,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/zpro/sc/ktm-duke390-250-200-390-gen-3"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Aluminum Alloy",
+          "finish": "Anodized"
+        },
+        "features": [
+          "Enhanced stability",
+          "Corrosion-resistant",
+          "Easy installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.3
+      },
+      {
+        "id": "radiator-guard",
+        "name": "Radiator Guard for KTM Duke 390 Gen 3",
+        "brand": "Zana Motorcycles",
+        "model": "Duke 390 Gen 3",
+        "description": "Protects the radiator from debris and stones, preventing potential damage.",
+        "category": "Protection",
+        "price": 1499,
+        "discount": 8,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/zpro/sc/ktm-duke390-250-200-390-gen-3"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Aluminum",
+          "finish": "Powder Coated"
+        },
+        "features": [
+          "Debris protection",
+          "Lightweight design",
+          "Easy installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.6
+      },
+      {
+        "id": "tail-tidy",
+        "name": "Tail Tidy for KTM Duke 390 Gen 3",
+        "brand": "Zana Motorcycles",
+        "model": "Duke 390 Gen 3",
+        "description": "Replaces the stock fender to give the bike a cleaner and more aggressive look.",
+        "category": "Aesthetics",
+        "price": 1999,
+        "discount": 12,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/zpro/sc/ktm-duke390-250-200-390-gen-3"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild Steel",
+          "finish": "Powder Coated"
+        },
+        "features": [
+          "Improved aesthetics",
+          "Reduced weight",
+          "Easy installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.4
+      },
+      {
+        "id": "crash-guard-bsa-goldstar-650",
+        "name": "Crash Guard with Slider Puck for BSA Goldstar 650",
+        "brand": "Zana Motorcycles",
+        "model": "Goldstar 650",
+        "description": "Provides protection to the engine and frame during falls, featuring an integrated slider puck for impact absorption.",
+        "category": "Protection",
+        "price": 81.6,
+        "discount": 0,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/ssc/bsa-goldstar650-crash-guard"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild Steel",
+          "finish": "Powder Coated",
+          "mounting": "3-Point Mount"
+        },
+        "features": [
+          "Impact-absorbing slider puck",
+          "Corrosion-resistant finish",
+          "Easy installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.8
+      },
+      {
+        "id": "mobile-holder-bsa-goldstar-650",
+        "name": "Mobile Holder for BSA Goldstar 650",
+        "brand": "Zana Motorcycles",
+        "model": "Goldstar 650",
+        "description": "Securely holds your smartphone, allowing easy access to navigation and controls while riding.",
+        "category": "Accessories",
+        "price": 25.0,
+        "discount": 0,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/ssc/mobile-holder-bsa-gold-star-65"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Aluminum Alloy",
+          "mounting": "Handlebar Clamp"
+        },
+        "features": [
+          "Adjustable fit for various smartphone sizes",
+          "Durable construction",
+          "Minimalistic design"
+        ],
+        "warranty": "6 months",
+        "rating": 4.5
+      },
+      {
+        "id": "crash-guard-hero-xpulse-200-bs6",
+        "name": "Crash Guard per Hero Xpulse 200 BS6",
+        "brand": "Zana Motorcycles",
+        "model": "Hero Xpulse 200 BS6",
+        "description": "Crash guard robusto con slider integrati per protezione avanzata.",
+        "category": "Protezione",
+        "price": 4799.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://hyperrider.in/product/xpulse-200-bs6-crash-gaurd/"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio dolce",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Protezione completa del motore",
+          "Slider integrati per assorbire gli urti",
+          "Design compatibile con Hero Xpulse 200 BS6"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.8
+      },
+      {
+        "id": "saddle-stay-hero-xpulse-200-bs6",
+        "name": "Saddle Stay per Hero Xpulse 200 BS6",
+        "brand": "Zana Motorcycles",
+        "model": "Hero Xpulse 200 BS6",
+        "description": "Saddle stay resistente per montaggio di borse laterali.",
+        "category": "Bagagli",
+        "price": 2698.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://motoavenue.in/shop-2/bike-safety-accessories/crash-guard/hero-xpulse-200-bs6-crash-guard/"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio dolce",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Supporto per borse laterali",
+          "Design resistente",
+          "Compatibile con Hero Xpulse 200 BS6"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "top-rack-hero-xpulse-200-bs6",
+        "name": "Top Rack per Hero Xpulse 200 BS6",
+        "brand": "Zana Motorcycles",
+        "model": "Hero Xpulse 200 BS6",
+        "description": "Top rack con piastra per montaggio di top box.",
+        "category": "Bagagli",
+        "price": 3999.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Top-Rack-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Alluminio",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Supporto per top box",
+          "Design leggero e resistente",
+          "Compatibile con Hero Xpulse 200 BS6"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.7
+      },
+      {
+        "id": "front-fork-sliders-hero-xpulse-200-bs6",
+        "name": "Sliders per Forcella Anteriore per Hero Xpulse 200 BS6",
+        "brand": "Zana Motorcycles",
+        "model": "Hero Xpulse 200 BS6",
+        "description": "Sliders per forcella anteriore per protezione in caso di caduta.",
+        "category": "Protezione",
+        "price": 1999.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Front-Fork-Sliders-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Polimero industriale",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Protezione della forcella anteriore",
+          "Design resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "paddock-stand-hero-xpulse-200-bs6",
+        "name": "Cavalletto Posteriore per Hero Xpulse 200 BS6",
+        "brand": "Zana Motorcycles",
+        "model": "Hero Xpulse 200 BS6",
+        "description": "Cavalletto posteriore per manutenzione e parcheggio stabile.",
+        "category": "Manutenzione",
+        "price": 3799.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Paddock-Stand-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio",
+          "finitura": "Nero opaco"
+        },
+        "features": [
+          "Supporto stabile per manutenzione",
+          "Design resistente",
+          "Compatibile con Hero Xpulse 200 BS6"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      },
+      {
+        "id": "headlight-grill-himalayan-2016-2020",
+        "name": "Headlight Grill for Royal Enfield Himalayan 2016-2020",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 2016-2020",
+        "description": "Protects the headlight from debris and impacts during off-road rides.",
+        "category": "Protection",
+        "price": 81.6,
+        "discount": 0,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/ssc/headlight-grill-himlayan-2016-2020"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Stainless Steel",
+          "construction": "Single-Piece",
+          "mounting": "DIY Kit"
+        },
+        "features": [
+          "Debris protection",
+          "Rust-resistant",
+          "Easy installation"
+        ],
+        "warranty": "Lifetime against rust",
+        "rating": 4.2
+      },
+      {
+        "id": "engine-crash-guard-himalayan-2016-2020",
+        "name": "Engine Crash Guard for Royal Enfield Himalayan 2016-2020",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 2016-2020",
+        "description": "Provides protection to the engine during falls and off-road rides.",
+        "category": "Protection",
+        "price": 139.0,
+        "discount": 0,
+        "stock": 10,
+        "images": ["https://lrlmotors.com/products/royal-enfield-himalayan-2016-2020-engine-crash-guard-black"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild Steel",
+          "finish": "Powder Coated"
+        },
+        "features": [
+          "Engine protection",
+          "Durable construction",
+          "Easy installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.5
+      },
+      {
+        "id": "fog-lamp-bracket-himalayan-2016-2020",
+        "name": "Fog Lamp Bracket for Royal Enfield Himalayan 2016-2020",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 2016-2020",
+        "description": "Mounts fog lamps securely to the motorcycle for enhanced visibility.",
+        "category": "Lighting",
+        "price": 29.0,
+        "discount": 0,
+        "stock": 10,
+        "images": ["https://kraftsurgical.com/fog-lamp-bracket-for-royal-enfield-himalayan-400-411-2019-2020-2021-2022-bs4-bs6-iron-spotlight-bracket-motorcycle-accessories-5297778.html"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild Steel",
+          "finish": "Powder Coated"
+        },
+        "features": [
+          "Fog lamp mounting",
+          "Rust-resistant",
+          "Easy installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.3
+      },
+      {
+        "id": "navigation-plate-bracket-himalayan-2016-2020",
+        "name": "Navigation Plate Bracket for Royal Enfield Himalayan 2016-2020",
+        "brand": "Zana Motorcycles",
+        "model": "Himalayan 2016-2020",
+        "description": "Supports GPS and navigation devices securely during rides.",
+        "category": "Accessories",
+        "price": 15.0,
+        "discount": 0,
+        "stock": 10,
+        "images": ["https://www.lazada.com.ph/products/for-royal-enfield-himalaya-2016-2017-2018-2019-2020-2021-motorcycle-accessories-gps-navigation-plate-bracket-phone-stand-holder2023-i3975456215.html"],
+        "colorOptions": ["Black"],
+        "sizeOptions": [],
+        "specifications": {
+          "material": "Mild Steel",
+          "finish": "Powder Coated"
+        },
+        "features": [
+          "Navigation device mounting",
+          "Durable construction",
+          "Easy installation"
+        ],
+        "warranty": "6 months",
+        "rating": 4.4
+      },
+      {
+        "id": "panniers-lflat-silver-ktm-adventure-250-390",
+        "name": "Panniers (36 LTR) Aluminium L-Flat Silver with Frame for KTM ADV 250/390",
+        "brand": "Zana Motorcycles",
+        "model": "Adventure 250/390",
+        "description": "Durable 36L aluminum panniers designed for KTM Adventure 250/390, featuring a sleek L-Flat design with a silver finish.",
+        "category": "Luggage",
+        "price": 450.5,
+        "discount": 12,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/panniers-36-ltr-aluminium-lflat-silver-with-frame-for-ktm-adv-250390"],
+        "colorOptions": ["Silver"],
+        "sizeOptions": ["36L"],
+        "specifications": {
+          "material": "Aluminum",
+          "finish": "Silver",
+          "capacity": "36L",
+          "compatibility": "KTM Adventure 250/390",
+          "mounting": "Zana Frame"
+        },
+        "features": [
+          "Waterproof gaskets",
+          "Overflow drainage system",
+          "Theft protection key mechanism",
+          "Easy-grip handle",
+          "Rust-free stainless steel hardware"
+        ],
+        "warranty": "Lifetime against rust and failure (non-accident-related)",
+        "rating": 4.8
+      },
+      {
+        "id": "panniers-lflat-black-ktm-adventure-250-390",
+        "name": "Panniers (36 LTR) Aluminium L-Flat Black with Frame for KTM ADV 250/390",
+        "brand": "Zana Motorcycles",
+        "model": "Adventure 250/390",
+        "description": "Sleek 36L aluminum panniers with a black finish, designed for KTM Adventure 250/390, offering ample storage space.",
+        "category": "Luggage",
+        "price": 450.5,
+        "discount": 12,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/panniers-36-ltr-aluminium-lflat-black-with-frame-for-ktm-adv-250390"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["36L"],
+        "specifications": {
+          "material": "Aluminum",
+          "finish": "Black",
+          "capacity": "36L",
+          "compatibility": "KTM Adventure 250/390",
+          "mounting": "Zana Frame"
+        },
+        "features": [
+          "Waterproof gaskets",
+          "Overflow drainage system",
+          "Theft protection key mechanism",
+          "Easy-grip handle",
+          "Rust-free stainless steel hardware"
+        ],
+        "warranty": "Lifetime against rust and failure (non-accident-related)",
+        "rating": 4.8
+      },
+      {
+        "id": "panniers-rflat-silver-ktm-adventure-250-390",
+        "name": "Panniers (36 LTR) Aluminium R-Flat Silver with Frame for KTM ADV 250/390",
+        "brand": "Zana Motorcycles",
+        "model": "Adventure 250/390",
+        "description": "Robust 36L aluminum panniers with a silver finish, designed for KTM Adventure 250/390, featuring a right-side R-Flat design.",
+        "category": "Luggage",
+        "price": 450.5,
+        "discount": 12,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/panniers-36-ltr-aluminium-rflat-silver-with-frame-for-ktm-adv-250390"],
+        "colorOptions": ["Silver"],
+        "sizeOptions": ["36L"],
+        "specifications": {
+          "material": "Aluminum",
+          "finish": "Silver",
+          "capacity": "36L",
+          "compatibility": "KTM Adventure 250/390",
+          "mounting": "Zana Frame"
+        },
+        "features": [
+          "Waterproof gaskets",
+          "Overflow drainage system",
+          "Theft protection key mechanism",
+          "Easy-grip handle",
+          "Rust-free stainless steel hardware"
+        ],
+        "warranty": "Lifetime against rust and failure (non-accident-related)",
+        "rating": 4.1
+      },
+      {
+        "id": "panniers-rflat-black-ktm-adventure-250-390",
+        "name": "Panniers (36 LTR) Aluminium R-Flat Black with Frame for KTM ADV 250/390",
+        "brand": "Zana Motorcycles",
+        "model": "Adventure 250/390",
+        "description": "Sturdy 36L aluminum panniers with a black finish, designed for KTM Adventure 250/390, featuring a right-side R-Flat design.",
+        "category": "Luggage",
+        "price": 450.5,
+        "discount": 12,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/panniers-36-ltr-aluminium-rflat-black-with-frame-for-ktm-adv-250390"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["36L"],
+        "specifications": {
+          "material": "Aluminum",
+          "finish": "Black",
+          "capacity": "36L",
+          "compatibility": "KTM Adventure 250/390",
+          "mounting": "Zana Frame"
+        },
+        "features": [
+          "Waterproof gaskets",
+          "Overflow drainage system",
+          "Theft protection key mechanism",
+          "Easy-grip handle",
+          "Rust-free stainless steel hardware"
+        ],
+        "warranty": "Lifetime against rust and failure (non-accident-related)",
+        "rating": 4.3
+      },
+      {
+        "id": "crash-guard-with-slider-black-ms",
+        "name": "Crash Guard con Slider (Nero MS)",
+        "brand": "Zana Motorcycles",
+        "model": "Royal Enfield Hunter 350",
+        "description": "Crash guard robusto con slider integrati per protezione avanzata.",
+        "category": "Protezione",
+        "price": 136.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Crash-Guard-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio",
+          "finitura": "Nero opaco"
+        },
+        "features": [
+          "Protezione avanzata per la moto",
+          "Facile da installare",
+          "Design robusto e duraturo"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "top-rack-with-plate-w-1-ms",
+        "name": "Top Rack con Piastra W-1 (MS)",
+        "brand": "Zana Motorcycles",
+        "model": "Royal Enfield Hunter 350",
+        "description": "Top rack con piastra W-1 per montaggio di top box.",
+        "category": "Bagagli",
+        "price": 84.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://sapmotors.com/wp-content/uploads/2021/09/Top-Rack-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Compatibile con i top box",
+          "Facile da montare",
+          "Design resistente e durevole"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "saddle-stay-mild-steel-with-exhaust-shield",
+        "name": "Saddle Stay in Acciaio con Scudo Scarico",
+        "brand": "Zana Motorcycles",
+        "model": "Royal Enfield Hunter 350",
+        "description": "Saddle stay in acciaio con scudo per protezione scarico.",
+        "category": "Bagagli",
+        "price": 99.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Saddle-Stay-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Protezione per lo scarico",
+          "Saddle stay in acciaio resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.9
+      },
+      {
+        "id": "side-stand-extender-aluminum-stainless-steel",
+        "name": "Estensore Cavalletto Laterale (Alluminio & Acciaio Inossidabile)",
+        "brand": "Zana Motorcycles",
+        "model": "Royal Enfield Hunter 350",
+        "description": "Estensore per cavalletto laterale in alluminio e acciaio inossidabile.",
+        "category": "Manutenzione",
+        "price": 30.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Top-Rack-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Argento"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Alluminio & Acciaio inossidabile",
+          "finitura": "Argento"
+        },
+        "features": [
+          "Prevenzione della caduta",
+          "Resistente alla ruggine",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.0
+      },
+      {
+        "id": "back-rest-mild-steel",
+        "name": "Backrest in Acciaio per Royal Enfield Hunter 350",
+        "brand": "Zana Motorcycles",
+        "model": "Royal Enfield Hunter 350",
+        "description": "Backrest in acciaio per comfort del passeggero.",
+        "category": "Comfort",
+        "price": 75.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Front-Fork-Sliders-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Comodo per il passeggero",
+          "Design robusto",
+          "Facile da montare"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "rear-footrest-pair",
+        "name": "Pedane Posteriori (Coppia)",
+        "brand": "Zana Motorcycles",
+        "model": "Royal Enfield Hunter 350",
+        "description": "Pedane posteriori in acciaio per passeggero.",
+        "category": "Comfort",
+        "price": 28.90,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Paddock-Stand-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Confortevole per il passeggero",
+          "Facile da installare",
+          "Design durevole"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.1
+      },
+      {
+        "id": "headlight-guard-stainless-steel",
+        "name": "Protezione Fari in Acciaio Inossidabile",
+        "brand": "Zana Motorcycles",
+        "model": "Royal Enfield Hunter 350",
+        "description": "Protezione per fari in acciaio inossidabile.",
+        "category": "Protezione",
+        "price": 44.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Front-Fork-Sliders-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio inossidabile",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Protezione per il faro",
+          "Design durevole",
+          "Facile da installare"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "pillion-backrest-cushion-small",
+        "name": "Cuscino per Backrest Piccolo",
+        "brand": "Zana Motorcycles",
+        "model": "Royal Enfield Hunter 350",
+        "description": "Cuscino per backrest per comfort del passeggero.",
+        "category": "Comfort",
+        "price": 17.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Top-Rack-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Polimero",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Comodo per il passeggero",
+          "Facile da montare",
+          "Design ergonomico"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.4
+      },
+      {
+        "id": "mirror-extender",
+        "name": "Estensore Specchietti",
+        "brand": "Zana Motorcycles",
+        "model": "Royal Enfield Hunter 350",
+        "description": "Estensore per specchietti per miglior visibilità.",
+        "category": "Visibilità",
+        "price": 20.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2021/09/Front-Fork-Sliders-KTM-Duke-200-BS6.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Migliora la visibilità",
+          "Design ergonomico",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.2
+      },
+      {
+        "id": "mobile-holder-touch-charger-triumph-scrambler-400x",
+        "name": "Mobile Holder with Touch Charger for Triumph Scrambler 400X",
+        "brand": "Zana Motorcycles",
+        "model": "Scrambler 400X",
+        "description": "Universal mobile holder designed for Triumph Scrambler 400X, featuring a touch-sensitive charger for seamless connectivity.",
+        "category": "Electronics",
+        "price": 45.9,
+        "discount": 10,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/ssc/triumph-scrambler-400x-mobile-holder"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["Universal Fit"],
+        "specifications": {
+          "material": "Aluminum",
+          "mounting": "Handlebar",
+          "charger": "Touch Sensitive"
+        },
+        "features": [
+          "Secure grip",
+          "Easy installation",
+          "Touch-sensitive charging",
+          "Universal compatibility"
+        ],
+        "warranty": "1 year",
+        "rating": 4.8
+      },
+      {
+        "id": "mobile-holder-usb-charger-triumph-scrambler-400x",
+        "name": "Mobile Holder with USB Charger for Triumph Scrambler 400X",
+        "brand": "Zana Motorcycles",
+        "model": "Scrambler 400X",
+        "description": "Universal mobile holder with built-in USB charger, designed for Triumph Scrambler 400X, ensuring your device stays powered during rides.",
+        "category": "Electronics",
+        "price": 45.9,
+        "discount": 10,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/ssc/triumph-scrambler-400x-mobile-holder"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["Universal Fit"],
+        "specifications": {
+          "material": "Aluminum",
+          "mounting": "Handlebar",
+          "charger": "USB"
+        },
+        "features": [
+          "Secure grip",
+          "Easy installation",
+          "USB charging",
+          "Universal compatibility"
+        ],
+        "warranty": "1 year",
+        "rating": 4.3
+      },
+      {
+        "id": "pluto-tail-bag-tank-bag-triumph-speed-400",
+        "name": "Zana Pluto Tail Bag / Tank Bag per Triumph Speed 400",
+        "brand": "Zana Motorcycles",
+        "model": "Triumph Speed 400",
+        "description": "Borsa multifunzionale che si trasforma facilmente da borsa da coda (25 litri) a borsa da serbatoio compatta (10 litri), ideale per viaggi quotidiani e avventure nel fine settimana.",
+        "category": "Bagagli",
+        "price": 64.60,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2023/09/Pluto-Tail-Bag-Tank-Bag-Triumph-Speed-400.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": ["25L", "10L"],
+        "specifications": {
+          "materiale": "Shell rigido resistente all'acqua con finitura in tessuto carbonio",
+          "capacità": "25 litri (espanso) / 10 litri (compresso)",
+          "caratteristiche": [
+            "4 punti magnetici e 4 cinghie per un fissaggio sicuro",
+            "Fodera impermeabile ad alta visibilità",
+            "Cerniere resistenti all'acqua con tiranti facili da impugnare"
+          ]
+        },
+        "features": [
+          "Design versatile: si trasforma facilmente da borsa da coda a borsa da serbatoio",
+          "Compatibile con tutte le motociclette grazie al fissaggio universale",
+          "Protezione contro le intemperie per mantenere gli oggetti asciutti durante la pioggia"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.7
+      },
+      {
+        "id": "side-stand-extender-black-triumph-speed-400",
+        "name": "Side Stand Extender Black for Triumph Speed 400",
+        "brand": "Zana Motorcycles",
+        "model": "Speed 400",
+        "description": "Enhance your bike's stability with this side stand extender, designed specifically for the Triumph Speed 400. It provides a larger footprint, ensuring your bike stays upright on various surfaces.",
+        "category": "Stands & Supports",
+        "price": 25.5,
+        "discount": 17,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/side-stand-extender-black-for-triumph-speed-400"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["Universal Fit"],
+        "specifications": {
+          "material": "High-quality steel",
+          "finish": "Powder-coated black",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Non-slip design",
+          "Stable and durable",
+          "Easy installation",
+          "Lightweight and purposeful",
+          "Patented design"
+        ],
+        "warranty": "Lifetime against powder coating, rusting, and welding issues",
+        "rating": 4.6
+      },
+      {
+        "id": "side-stand-extender-hyperrider-triumph-speed-400",
+        "name": "Hyperrider Side Stand Extender Shoe for Triumph Speed 400",
+        "brand": "Hyperrider",
+        "model": "Speed 400",
+        "description": "A premium side stand extender shoe designed to provide a larger contact area, preventing the side stand from sinking into soft ground.",
+        "category": "Stands & Supports",
+        "price": 19.9,
+        "discount": 10,
+        "stock": 10,
+        "images": ["https://motocentral.in/products/hyperrider-side-stand-extender-shoe-for-triumph-speed-400-and-scrambler-400x-hrspd40004s"],
+        "colorOptions": ["Black/White"],
+        "sizeOptions": ["Universal Fit"],
+        "specifications": {
+          "material": "Aluminum",
+          "finish": "Anodized",
+          "mounting": "Clamps onto existing side stand"
+        },
+        "features": [
+          "Prevents side stand from sinking",
+          "Easy installation",
+          "Durable construction",
+          "Sleek design"
+        ],
+        "warranty": "1 year",
+        "rating": 4.5
+      },
+      {
+        "id": "saddle-stay-texture-matt-black-2017-18",
+        "name": "Saddle Stay Texture Matt Black for Dominar 400 (2017-18)",
+        "brand": "Zana Motorcycles",
+        "model": "Dominar 400",
+        "description": "A robust saddle stay designed for the Dominar 400, featuring a texture matt black finish for enhanced durability and aesthetics.",
+        "category": "Luggage",
+        "price": 116,
+        "discount": 17,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/sc/bajaj-dominar-400-cc-2017-2018-accessories"],
+        "colorOptions": ["Matt Black"],
+        "sizeOptions": ["Universal Fit"],
+        "specifications": {
+          "material": "High-quality steel",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Enhanced load capacity",
+          "Pillion friendly",
+          "Compatible with Zana top box racks",
+          "Vibration dampeners included"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.3
+      },
+      {
+        "id": "top-rack-with-new-plate-compatible-with-pillion-backrest",
+        "name": "Top Rack with New Plate Compatible with Pillion Backrest",
+        "brand": "Zana Motorcycles",
+        "model": "Dominar 400",
+        "description": "A versatile top rack designed to accommodate a new plate, ensuring compatibility with the pillion backrest for added convenience.",
+        "category": "Luggage",
+        "price": 3499,
+        "discount": 17,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/sc/bajaj-dominar-400-cc-2017-2018-accessories"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["Universal Fit"],
+        "specifications": {
+          "material": "High-quality steel",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Enhanced load capacity",
+          "Pillion friendly",
+          "Easy installation",
+          "Durable construction"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.5
+      },
+      {
+        "id": "paddock-stand-texture-matt-black-2017-2018",
+        "name": "Paddock Stand Texture Matt Black for Dominar 400 (2017-2018)",
+        "brand": "Zana Motorcycles",
+        "model": "Dominar 400",
+        "description": "A sturdy paddock stand designed for the Dominar 400, featuring a texture matt black finish for enhanced durability and aesthetics.",
+        "category": "Maintenance",
+        "price": 152,
+        "discount": 16,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/sc/bajaj-dominar-400-cc-2017-2018-accessories"],
+        "colorOptions": ["Matt Black"],
+        "sizeOptions": ["Universal Fit"],
+        "specifications": {
+          "material": "High-quality steel",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Stable and durable",
+          "Easy to use",
+          "Compact design",
+          "Suitable for maintenance tasks"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.4
+      },
+      {
+        "id": "crash-guard-with-slider-texture-matt-black-2017-2018",
+        "name": "Crash Guard with Slider Texture Matt Black for Dominar 400 (2017-2018)",
+        "brand": "Zana Motorcycles",
+        "model": "Dominar 400",
+        "description": "A protective crash guard designed for the Dominar 400, featuring a slider for added protection and a texture matt black finish for enhanced durability.",
+        "category": "Protection",
+        "price": 169,
+        "discount": 16,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/sc/bajaj-dominar-400-cc-2017-2018-accessories"],
+        "colorOptions": ["Matt Black"],
+        "sizeOptions": ["Universal Fit"],
+        "specifications": {
+          "material": "High-quality steel",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Enhanced protection",
+          "Easy installation",
+          "Durable construction",
+          "Sleek design"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.6
+      },
+      {
+        "id": "paddock-stand-glossy-red-2017-2018",
+        "name": "Paddock Stand Glossy Red for Dominar 400 (2017-2018)",
+        "brand": "Zana Motorcycles",
+        "model": "Dominar 400",
+        "description": "A vibrant paddock stand designed for the Dominar 400, featuring a glossy red finish for a stylish look and enhanced durability.",
+        "category": "Maintenance",
+        "price": 152,
+        "discount": 16,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/sc/bajaj-dominar-400-cc-2017-2018-accessories"],
+        "colorOptions": ["Glossy Red"],
+        "sizeOptions": ["Universal Fit"],
+        "specifications": {
+          "material": "High-quality steel",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Stable and durable",
+          "Easy to use",
+          "Compact design",
+          "Suitable for maintenance tasks"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.3
+      },
+      {
+        "id": "crash-guard-tvs-apache-rtr-180",
+        "name": "Crash Guard for TVS Apache RTR 180",
+        "brand": "Zana Motorcycles",
+        "model": "Apache RTR 180",
+        "description": "A robust crash guard designed specifically for the TVS Apache RTR 180, providing superior protection and durability.",
+        "category": "Protection",
+        "price": 99.99,
+        "discount": 15,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/crash-guard-tvs-apache-rtr-180"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["Standard"],
+        "specifications": {
+          "material": "High-quality steel",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Enhanced protection",
+          "Easy installation",
+          "Durable construction",
+          "Sleek design"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.5
+      },
+      {
+        "id": "saddle-stay-tvs-apache-rtr-180",
+        "name": "Saddle Stay for TVS Apache RTR 180",
+        "brand": "Zana Motorcycles",
+        "model": "Apache RTR 180",
+        "description": "A sturdy saddle stay designed for the TVS Apache RTR 180, allowing for easy mounting of saddlebags.",
+        "category": "Luggage",
+        "price": 89.99,
+        "discount": 10,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/saddle-stay-tvs-apache-rtr-180"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["Standard"],
+        "specifications": {
+          "material": "High-quality steel",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Easy installation",
+          "Compatible with saddlebags",
+          "Durable construction",
+          "Sleek design"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.4
+      },
+      {
+        "id": "top-rack-tvs-apache-rtr-180",
+        "name": "Top Rack for TVS Apache RTR 180",
+        "brand": "Zana Motorcycles",
+        "model": "Apache RTR 180",
+        "description": "A versatile top rack designed for the TVS Apache RTR 180, providing additional luggage carrying capacity.",
+        "category": "Luggage",
+        "price": 79.99,
+        "discount": 12,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/top-rack-tvs-apache-rtr-180"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["Standard"],
+        "specifications": {
+          "material": "High-quality steel",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Increased luggage capacity",
+          "Easy installation",
+          "Durable construction",
+          "Sleek design"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.6
+      },
+      {
+        "id": "paddock-stand-tvs-apache-rtr-180",
+        "name": "Paddock Stand for TVS Apache RTR 180",
+        "brand": "Zana Motorcycles",
+        "model": "Apache RTR 180",
+        "description": "A sturdy paddock stand designed for the TVS Apache RTR 180, facilitating easy maintenance and storage.",
+        "category": "Maintenance",
+        "price": 69.99,
+        "discount": 10,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/paddock-stand-tvs-apache-rtr-180"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["Standard"],
+        "specifications": {
+          "material": "High-quality steel",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Easy maintenance",
+          "Stable and durable",
+          "Compact design",
+          "Sleek appearance"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.3
+      },
+      {
+        "id": "saddle-bag-tvs-apache-rtr-180",
+        "name": "Saddle Bag for TVS Apache RTR 180",
+        "brand": "Zana Motorcycles",
+        "model": "Apache RTR 180",
+        "description": "A durable saddle bag designed for the TVS Apache RTR 180, providing ample storage space for long rides.",
+        "category": "Luggage",
+        "price": 59.99,
+        "discount": 15,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/saddle-bag-tvs-apache-rtr-180"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["Standard"],
+        "specifications": {
+          "material": "High-quality fabric",
+          "capacity": "15 liters",
+          "mounting": "Saddle stay compatible"
+        },
+        "features": [
+          "Water-resistant",
+          "Easy installation",
+          "Spacious design",
+          "Sleek appearance"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.7
+      },
+      {
+        "id": "front-fluid-reservoir-cover-mt-15",
+        "name": "Copertura Serbatoio Fluido Anteriore per Yamaha MT-15",
+        "brand": "Zana Motorcycles",
+        "model": "Yamaha MT-15",
+        "description": "Copertura per il serbatoio del fluido anteriore, protegge da polvere e detriti.",
+        "category": "Protezione",
+        "price": 25.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://motocentral.in/products/zana-front-fluid-reservoir-cover-for-yamaha-mt-15-zi-8391"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Plastica resistente",
+          "finitura": "Nero opaco"
+        },
+        "features": [
+          "Protezione contro polvere e detriti",
+          "Design compatto",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "top-rack-with-plate-mt-15",
+        "name": "Top Rack con Piastra per Yamaha MT-15",
+        "brand": "Zana Motorcycles",
+        "model": "Yamaha MT-15",
+        "description": "Top rack con piastra per montaggio di top box.",
+        "category": "Bagagli",
+        "price": 70.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://motocentral.in/products/zana-top-rack-with-plate-for-yamaha-mt-15-zi-8388"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Compatibile con top box",
+          "Facile da montare",
+          "Design resistente"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.7
+      },
+      {
+        "id": "saddle-stay-fz25-2017-2019",
+        "name": "Saddle Stay per Yamaha FZ25 (2017-2019)",
+        "brand": "Zana Motorcycles",
+        "model": "Yamaha FZ25",
+        "description": "Saddle stay in acciaio con scudo per protezione scarico.",
+        "category": "Bagagli",
+        "price": 99.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/product/saddle-stay-fz25-2017-2019"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio",
+          "finitura": "Nero"
+        },
+        "features": [
+          "Protezione per lo scarico",
+          "Saddle stay in acciaio resistente",
+          "Facile installazione"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.9
+      },
+      {
+        "id": "paddock-stand-fz25-texture-matt-black",
+        "name": "Paddock Stand per Yamaha FZ25 (Texture Matt Black)",
+        "brand": "Zana Motorcycles",
+        "model": "Yamaha FZ25",
+        "description": "Paddock stand per manutenzione e stoccaggio, combinando qualità premium con funzionalità.",
+        "category": "Manutenzione",
+        "price": 68.00,
+        "discount": 0,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/ssc/yamaha-fz25-paddock-stand"
+        ],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Acciaio",
+          "finitura": "Nero opaco"
+        },
+        "features": [
+          "Stabilità eccezionale",
+          "Facile da usare",
+          "Ideale per pulizia e cambio pneumatici"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.2
+      },
+      {
+        "id": "top-rack-type-w-yezdi-scrambler",
+        "name": "Top Rack Type-W for Yezdi Scrambler",
+        "brand": "Zana Motorcycles",
+        "model": "Yezdi Scrambler",
+        "description": "A robust top rack designed specifically for the Yezdi Scrambler, providing additional luggage carrying capacity.",
+        "category": "Luggage",
+        "price": 89,
+        "discount": 16,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/top-rack-type-w-yezdi-scrambler"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["Standard"],
+        "specifications": {
+          "material": "High-quality steel",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Enhanced luggage capacity",
+          "Easy installation",
+          "Durable construction",
+          "Sleek design"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.1
+      },
+      {
+        "id": "paddock-stand-yezdi-adventure-glossy-red",
+        "name": "Paddock Stand for Yezdi Adventure (Glossy Red)",
+        "brand": "Zana Motorcycles",
+        "model": "Yezdi Adventure",
+        "description": "A sturdy paddock stand designed for the Yezdi Adventure, facilitating easy maintenance and storage.",
+        "category": "Maintenance",
+        "price": 152,
+        "discount": 16,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/paddock-stand-yezdi-adventure-glossy-red"],
+        "colorOptions": ["Glossy Red"],
+        "sizeOptions": ["Standard"],
+        "specifications": {
+          "material": "High-quality steel",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Stable and durable",
+          "Easy to use",
+          "Compact design",
+          "Suitable for maintenance tasks"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.5
+      },
+      {
+        "id": "headlight-grill-ms-silver-yezdi-scrambler",
+        "name": "Headlight Grill MS (Silver) for Yezdi Scrambler",
+        "brand": "Zana Motorcycles",
+        "model": "Yezdi Scrambler",
+        "description": "A stylish headlight grill designed for the Yezdi Scrambler, providing protection and enhancing the bike's appearance.",
+        "category": "Protection",
+        "price": 16.3,
+        "discount": 20,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/headlight-grill-ms-silver-yezdi-scrambler"],
+        "colorOptions": ["Silver"],
+        "sizeOptions": ["Standard"],
+        "specifications": {
+          "material": "Mild steel",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Enhanced protection",
+          "Easy installation",
+          "Durable construction",
+          "Sleek design"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.2
+      },
+      {
+        "id": "master-cylinder-black-aluminium-yezdi-adventure",
+        "name": "Master Cylinder (Black, Aluminium) for Yezdi Adventure",
+        "brand": "Zana Motorcycles",
+        "model": "Yezdi Adventure",
+        "description": "A high-quality master cylinder designed for the Yezdi Adventure, offering improved braking performance.",
+        "category": "Braking",
+        "price": 11.9,
+        "discount": 30,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/master-cylinder-black-aluminium-yezdi-adventure"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["Standard"],
+        "specifications": {
+          "material": "Aluminium",
+          "finish": "Anodized",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Enhanced braking performance",
+          "Lightweight design",
+          "Durable construction",
+          "Easy installation"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.3
+      },
+      {
+        "id": "radiator-grill-honeycomb-aluminium-black-yezdi-scrambler",
+        "name": "Radiator Grill Honeycomb Aluminium (Black) for Yezdi Scrambler",
+        "brand": "Zana Motorcycles",
+        "model": "Yezdi Scrambler",
+        "description": "A protective radiator grill designed for the Yezdi Scrambler, featuring a honeycomb pattern for enhanced airflow and protection.",
+        "category": "Protection",
+        "price": 30.6,
+        "discount": 18,
+        "stock": 10,
+        "images": ["https://www.zanamotorcycles.com/product/radiator-grill-honeycomb-aluminium-black-yezdi-scrambler"],
+        "colorOptions": ["Black"],
+        "sizeOptions": ["Standard"],
+        "specifications": {
+          "material": "Aluminium",
+          "finish": "Powder-coated",
+          "mounting": "Direct fitment",
+          "hardware": "Stainless steel"
+        },
+        "features": [
+          "Enhanced protection",
+          "Improved airflow",
+          "Durable construction",
+          "Sleek design"
+        ],
+        "warranty": "6 months (not against accidental damage)",
+        "rating": 4.4
+      },
+      {
+        "id": "universal-top-box-45l-flat-black",
+        "name": "Top Box Universale 45L Flat Nero con Piastra Posteriore",
+        "brand": "Zana Motorcycles",
+        "model": "Universale",
+        "description": "Top box universale da 45 litri in plastica nera opaca, dotato di piastra posteriore per montaggio facile su diverse motociclette.",
+        "category": "Bagagli",
+        "price": 119.00,
+        "discount": 7,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2023/09/Universal-Top-Box-45L-Flat-Black.jpg"
+        ],
+        "colorOptions": ["Nero opaco"],
+        "sizeOptions": ["45L"],
+        "specifications": {
+          "materiale": "Plastica resistente",
+          "capacità": "45 litri",
+          "caratteristiche": [
+            "Design aerodinamico",
+            "Sistema di montaggio universale",
+            "Chiusura sicura con chiave"
+          ]
+        },
+        "features": [
+          "Compatibile con la maggior parte delle motociclette",
+          "Facile da installare",
+          "Ideale per viaggi lunghi"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.8
+      },
+      {
+        "id": "universal-mobile-holder-without-charger",
+        "name": "Supporto Universale per Smartphone Senza Caricatore",
+        "brand": "Zana Motorcycles",
+        "model": "Universale",
+        "description": "Supporto universale per smartphone, progettato per adattarsi alla maggior parte delle motociclette, senza funzione di ricarica.",
+        "category": "Elettronica",
+        "price": 40.80,
+        "discount": 8,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2023/09/Universal-Mobile-Holder-Without-Charger.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Alluminio e gomma",
+          "compatibilità": "Smartphone fino a 6.5 pollici",
+          "caratteristiche": [
+            "Installazione facile",
+            "Design regolabile",
+            "Adatto per manubri fino a 1.25 pollici di diametro"
+          ]
+        },
+        "features": [
+          "Sicurezza durante la guida",
+          "Accesso facile al dispositivo",
+          "Resistente alle vibrazioni"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.5
+      },
+      {
+        "id": "universal-mobile-holder-with-usb-charger",
+        "name": "Supporto Universale per Smartphone con Caricatore USB",
+        "brand": "Zana Motorcycles",
+        "model": "Universale",
+        "description": "Supporto universale per smartphone con caricatore USB integrato, compatibile con la maggior parte delle motociclette.",
+        "category": "Elettronica",
+        "price": 45.90,
+        "discount": 10,
+        "stock": 10,
+        "images": [
+          "https://www.zanamotorcycles.com/wp-content/uploads/2023/09/Universal-Mobile-Holder-With-USB-Charger.jpg"
+        ],
+        "colorOptions": ["Nero"],
+        "sizeOptions": [],
+        "specifications": {
+          "materiale": "Alluminio e gomma",
+          "compatibilità": "Smartphone fino a 6.5 pollici",
+          "caratteristiche": [
+            "Caricatore USB da 5V/2A",
+            "Installazione facile",
+            "Design regolabile",
+            "Adatto per manubri fino a 1.25 pollici di diametro"
+          ]
+        },
+        "features": [
+          "Ricarica del dispositivo durante la guida",
+          "Sicurezza durante la guida",
+          "Resistente alle vibrazioni"
+        ],
+        "warranty": "6 mesi",
+        "rating": 4.6
+      }
+  ]

@@ -1,28 +1,41 @@
 const mongoose = require('mongoose');
 
-
 const ProductSchema = new mongoose.Schema(
   {
-    name: { type: String, required: true, trim: true },
-    description: { type: String, required: true },
-    price: { type: Number, required: true },
-    category: { type: String, required: true, enum: ['Helmets', 'Gloves', 'Lights', 'Tires', 'Locks', 'Tools'] },
+    name: { type: String, trim: true },
     brand: { type: String },
-    stock: { type: Number, required: true, min: 0 },
-    images: [{ type: String, required: true }],
-    ratings: { type: Number, default: 0 },
+    model: { type: String },
+    description: { type: String },
+    category: { type: String },
+    price: { type: Number },
+    discount: { type: Number, default: 0 },
+    stock: { type: Number, min: 0 },
+    images: [{ type: String }],
+    colorOptions: [{ type: String }],
+    sizeOptions: [{ type: String }],
+    specifications: {
+      frameSize: { type: String },
+      wheelSize: { type: String },
+      weight: { type: String },
+      gears: { type: String },
+      brakeType: { type: String },
+      material: { type: String }
+    },
+    features: [{ type: String }],
+    warranty: { type: String },
+    rating: { type: Number, default: 0 },
     sold: { type: Number, default: 0 },
     reviews: [
       {
         user: { type: mongoose.Schema.Types.ObjectId, ref: 'User' },
-        rating: { type: Number, required: true, min: 1, max: 5 },
+        rating: { type: Number, min: 1, max: 5 },
         comment: { type: String }
       }
     ],
     isFeatured: { type: Boolean, default: false }
   },
-  { timestamps: true } // Adds createdAt & updatedAt automatically
+  { timestamps: true }
 );
 
 const Product = mongoose.model('Product', ProductSchema);
-module.exports = Product; // ✅ Ensure the model is exported correctly
+module.exports = Product;

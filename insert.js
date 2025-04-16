@@ -1,44 +1,40 @@
-const { MongoClient, ObjectId } = require("mongodb");
-const csv = require("csvtojson");
+const mongoose = require("mongoose");
+const fs = require("fs");
 const path = require("path");
-require('dotenv').config();
+require("dotenv").config();
 
+const Product = require("./models/Product"); // Adjust to your actual model path
 
-// === CONFIG ===
-const MONGO_URI = process.env.MONGO_URI // Or your Atlas URI
-const DB_NAME = "test";
-const COLLECTION_NAME = "products";
-const CSV_PATH = path.join(__dirname, "test.products.csv"); // Adjust if needed
+const JSON_PATH = path.join(__dirname, "products.json");
 
-async function run() {
-  const client = new MongoClient(MONGO_URI);
-
+async function importProducts() {
   try {
-    await client.connect();
-    const db = client.db(DB_NAME);
-    const collection = db.collection(COLLECTION_NAME);
+    await mongoose.connect(process.env.MONGO_URI);
+    console.log("✅ Connected to MongoDB");
 
-    // Convert CSV to JSON
-    const products = await csv().fromFile(CSV_PATH);
+    // Read JSON
+    const rawData = fs.readFileSync(JSON_PATH, "utf-8");
+    const products = JSON.parse(rawData);
 
-    // Add _id as ObjectId in order
-    const updatedProducts = products.map((p) => ({
-      _id: new ObjectId(),
-      ...p,
-      price: parseFloat(p.price),
-      stock: parseInt(p.stock),
-      sold: parseInt(p.sold),
-      ratings: parseFloat(p.ratings),
-      isFeatured: p.isFeatured === "true", // if from CSV string
+    // Remove 'id' and prepare entries
+    const cleanedProducts = products.map(({ id, ...rest }) => ({
+      ...rest,
+      price: parseFloat(rest.price),
+      discount: parseFloat(rest.discount || 0),
+      stock: parseInt(rest.stock),
+      rating: parseFloat(rest.rating || 0),
+      sold: parseInt(rest.sold || 0),
+      isFeatured: rest.isFeatured || false,
     }));
 
-    const result = await collection.insertMany(updatedProducts);
-    console.log(`✅ Inserted ${result.insertedCount} products`);
+    // Insert
+    const result = await Product.insertMany(cleanedProducts);
+    console.log(`✅ Inserted ${result.length} products`);
   } catch (error) {
-    console.error("❌ Error inserting products:", error);
+    console.error("❌ Error:", error.message);
   } finally {
-    await client.close();
+    mongoose.disconnect();
   }
 }
 
-run();
+importProducts();
