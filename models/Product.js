@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 const ProductSchema = new mongoose.Schema(
   {
     name: { type: String, trim: true },
+    manufacturer: { type: String }, // ✅ NEW FIELD
     brand: { type: String },
     model: { type: String },
     description: { type: String },

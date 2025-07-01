@@ -98,18 +98,19 @@ exports.getProductsByCollection = async (req, res) => {
   }
 };
 
+
 exports.getProductsByBike = async (req, res) => {
   try {
-    const { bike, model } = req.query;
+    const { brand, model } = req.query;
 
-    if (!bike || !model) {
-      return res.status(400).json({ message: "Bike and model are required" });
+    if (!brand || !model) {
+      return res.status(400).json({ message: "Brand and model are required" });
     }
 
-    // Assuming your Product schema has bike and model fields
+    // Normalize input to uppercase since your database uses capitalized brands/models
     const products = await Product.find({
-      bike: bike.toLowerCase(),
-      model: model.toLowerCase(),
+      brand: brand.toUpperCase(),
+      model: model.toUpperCase(),
     });
 
     res.status(200).json({ success: true, products });
